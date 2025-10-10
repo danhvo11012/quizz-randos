@@ -1,0 +1,358 @@
+What is the function of a vortex generator? AAAA It is designed to delay of prevent separation of the boundary layer.
+What are the three axes of an airplane? AAAA Longitudinal, lateral, and vertical.
+What are the three primary flight controls of an aircraft? AAAA The ailerons, elevators, and rudder.
+Name several secondary flight controls and describe their general purpose? AAAA Secondary flight controls consist of various types of trim tabs such as balance tabs, anti-servo and servo tabs, and spring tabs. Their function is to assist the pilot in moving the controls and to trim the aircraft to fly hands-off.
+Name several types of auxiliary flight controls and describe their general purpose? AAAA The auxiliary flight controls consist of the various high-lift devices used during low-speed flight such as leading and trailing edge flaps, slats, slots, speed brakes, etc.
+What is a servo trim tab? AAAA It is an auxiliary control, positioned by the movement of a primary control and designed to create aerodynamic forces to assist in moving a control surface.
+What is a spring tab? AAAA It is an auxiliary control designed to aid the movement of a primary control at high speeds when control forces become too high.
+What is a balance trim tab? AAAA It is an auxiliary control designed to create aerodynamic forces to assist in moving a control surface. The tab is positioned by a control rod connected to the fixed surface on the same side as the horn an the tab.
+What are four most common types of high lift devices? AAAA Leading and trailing edge flaps, slats, and slots.
+Describe some of the tools used to check control surface travel? AAAA A universal propeller protractor or specal control surface protractor.
+Name three mechanical methods by which flight control systems may be actuated. AAAA Cables, push-pull rods, and torque tubes.
+What is a fairlead? AAAA It is a device to prevent a cable from rubbing on the aircraft strcture.
+What are the most likely places for a control cable to wear or break? AAAA Where the cables pass over pulleys or through fairleads.
+What information is required before a cable rigging chart can be used? AAAA The ambient temperature and the cable size.
+What is the function of a cable tension regulator? AAAA It automatically adjusts the cable tension to compensate for expansion and contraction in the aircraft structure.
+Describe the function of rotorcraft collective pitch control. AAAA The collective control causes each rotor blade to change its pitch angle by the same amount, thus increasing or decreasing the lift produced by the rotor.
+Describe the function of a rotorcraft cyclic pitch control. AAAA The cyclic control tilts the main rotor disc by by changing the pitch angle of each rotor blade during its cycle of rotation, which causes the helicopter to move in the direction the rotor tilts.
+What mechanism is most commonly used to compensate for the torque produced by the main rotor of a helicopter? AAAA The tail (or anti-torque) rotor.
+How is the amount of thrust produced by the tail rotor controlled? AAAA By moving the foot pedals.
+Why should a control surface be locked when an aircraft is parked? AAAA To prevent damage from the wind.
+What is the major type of damage to aluminum structures that is caused by exposure to the weather? AAAA Corrosion.
+Name several method for forming sheet metal. AAAA Bending or folding, stretching, shrinking, bumping, and crimping.
+What are the dimensions of a properly formed rivet head? AAAA The head should be 1-1/2 times the shank diameter in width and 1/2 the shank diameter in height.
+Describe the markings found on the heads of A, B, D, AD, and DD rivets? AAAA A rivets are plain, B rivets have a cross, D rivets have a raised dot, AD rivets have a dimple, and DD rivets have a double dash.
+What happens to the stem of a self-plugging (friction lock) rivet when the rivet is installed? AAAA The stem is pulled until it snaps off and the remaining projecting part is trimmed flush with the head.
+Name at least three types of self-plugging mechanical lock rivets. AAAA CherryMAX, CherryLOCK, OLYMPIC-LOK, and HuckLok.
+What is the difference between the tools required to pull a CherryLOCK rivet and a CherryMAX rivet? AAAA CherryLock rivets require a tool for each different size and head shape, while one pulling tool will set and size CherryMAX rivet.
+Which of the five stresses is the most common cause of rivet failure? AAAA Shear.
+If a 2024 rivet must be replaced with a 2117 rivet, how do you determine the size to be used? AAAA For 5/32" or smaller diameter, use the next larger size 2117 rivet, assuming that the edge distance and spacing meet the minimum requirements.
+Describe the process for determining the total length of a solid rivet for a particular installation. AAAA Add the grip length (thickness or the materials being joined) plus 1-1/2 times the rivet diameter.
+What minimum edge distance and spacing should be used for a single row of protruding head rivets? AAAA Not less than two rivet diameters from the edge and not less than three rivet diameters apart.
+How can a mechanic determine whether the countersink for a flush rivet should be dimpled or drilled? AAAA By the thickness of the top sheet; thin sheets are dimpled while thick sheets may be countersunk.
+What action is taken to prevent cracks from forming while dimpling magnesium or some hard sheet metals? AAAA Hot dimpling equipment is used to preheat and soften the metal before the dimple is formed.
+What type of damage can occur when using a rivet set that does not properly fit the rivet? AAAA If the radius of the set is too small, the rivet head may be damaged, whereas a set with an over-sized radius may cause damage to the sheet metal.
+Why is it important to use the proper size and weight bucking bar when performing sheet metal riveting? AAAA If a bucking bar is too large or heavy it may be difficult to control and may cause damage to the surrounding structure, whereas a bucking bar that is too light will not properly upset the rivet before work hardening occurs.
+What procedures should be followed to properly remove a solid-shank rivet? AAAA Center punch the rivet and then drill just to the base of the rivet head with the same size or one size smaller drill. Once drilled, use a pin punch to tip off the rivet head and drive the remaining shank out of the hole while supporting the surrounding metal.
+What are the two special calculations that must be made bending sheet metal? AAAA Bend allowance and setback.
+What factors must be considered in order to determine setback? AAAA The thickness of the metal and the bend radius.
+What is done to a corner where two bends intersect to prevent cracking? AAAA Relief holes are drilled in the corner.
+What are the two reasons for installing a lightening hole in the sheet metal? AAAA Lightening holes reduce the weight and increase stiffness.
+Describe a joggle and explain its function. AAAA A joggle is an offset formed at an intersection of two or more sheets of metal to allow the multiple sheets to be stacked flat against each other.
+When repairing an all-metal aircraft, how do you determine what metal should be used? AAAA Always use metal of the same type and thickness as the original structure.
+What are three forms of wood commonly used in aircraft construction? AAAA Solid, laminated, and plywood.
+What type of wood should be used when splicing or reinforcing plywood webs? AAAA The same type of plywood as originally used.
+Name at least four different types of defects found in wood? AAAA Knots, checks, splits, pitch pockets, cross grain, curly grain, decay, dry rot, etc..
+Can a section of wood containing a hard knot be used? AAAA Yes, within specified limits.
+What type of glue may have been used in older wooden aircraft construction that requires careful inspection to detect deterioration? AAAA Casein glue.
+What are the three types of glue uses in modern aircraft construction and repair? AAAA Resorcinol glue, Phenol-formaldehyde glue, and epoxy resin glue.
+Is compression wood acceptable for structural repairs? AAAA No.
+Why should the various pieces of wood being joined be kept in the same room for at least 24 hours prior to joining? AAAA To allow the moisture content to equalize, thereby minimizing dimensional changes in the wood.
+Why is it important to consider the open-assembly time when gluing wooden structures? AAAA If the maximum open-assembly time is exceeded, the joint may fail since the glue may begin setting up before the joint is assembled.
+Why is it important to apply the proper clamping pressure to a glue joint? AAAA Clamping forces air out of the joint, brings the wood surfaces together evenly and is, in part, responsible for the strength of the glue line.
+Describe some of the methods used to apply pressure to glue joints. AAAA Clamps, nailing strips, power presses, brads, nails, and small screws.
+What minimum curing temperature should be observed when joining wood with various adhesives? AAAA 70 degrees Fahrenheit or as specified by the glue manufacturer.
+When inspecting wood structues, why might it be important to consider stains and discolored area? AAAA Stains and discoloration usually accompany decay and/or rot.
+Describe the acceptable methods used to repair elongated bolts holes found in wooden wing spar. AAAA Remove the section containing the elongated holes and splice in a new section or replace the entire spar.
+What type of joint is used to splice a solid or rectangular wood spar? AAAA A scarf joint.
+In what are splices to a wood spar prohibited? AAAA Under an attachment fitting for the wing root, landing gear, engine-mount, lift, or inter-plane strut.
+What is the maximum number of splices allowed for any single spar? AAAA Two.
+Describle the characteristics of a scarf joint. AAAA The pieces to be joined are tapered or beveled on a slope of 1 to 10 or 1 to 12.
+Why must the beveled cut be accurate on both pieces of wood being repaired with a scarfed joint? AAAA The two pieces must match exactly to ensure a tight joint.
+What are the two primary uses for plywood in aircraft construction? AAAA Gusset (or reinforcing) plates and aircraft skin.
+Provide examples of at least three types of plywood skin repairs. AAAA Splayed patches, surface patches, plug patches, and scarfed patches.
+What type of patch should be used to repair small holes in thin plywood skin if the skin is less than 1/10th inch thick? AAAA A splayed patch may be used if the hole can be cleared out to a diameter of less than 15 thicknesses of the skin.
+What should be done to prevent a plywood patch and the pressure plate from sticking together if glue is extruded from the joint? AAAA Place a piece of waxed paper or vinyl plastic between the patch and the pressure plate.
+Why are lightweight steel bushings sometimes used in wooden structures? AAAA Bushings prevent the wood from being crushed when bolts are tightened.
+What is the purpose of large surface area washers when used on wooden structeres? AAAA Large washers provide additional bearing area for hardware to help preclude damage to the wood when the hardware is tightened.
+Name several facings and core materials used in bonded honeycomb structures intended for special applications. AAAA Stainless steel, titanium, magnesium, plywood, glass, nylon, and cotton cloth.
+Describe the construction of a bonded honeycomb structure. AAAA It is a laminated structure that has a solid facing bonded to either side of a core consisting of open, six-sided cells.
+What must be done with a damaged area in a bonded honeycomb structure prior to beginning repairs? AAAA The damaged area must be completely removed.
+A drill bit used for drilling composites should have an included angle of how many degrees? AAAA 135 degrees.
+What are the most common causes for delamination of a composite structure? AAAA Sonic vibration, expansion of internal moisture, liquid leakage, and a manufacturing error.
+What type of defect in, or damage to, a bonded honeycomb structure can be repaired using the potted repair method? AAAA Filling a hole.
+Name some of the factors that cause crazing in transparent plastic windows and windshields? AAAA Exposure to ultraviolet light, stress, solvents, and improper handling.
+How should a hole be drilled in Plexiglas to avoid damage to the hole when the drill breaks through to the underside? AAAA Back up the plastic with a piece of wood and feed the drill slowly.
+Name the three principle types of welding. AAAA Gas welding, electric arc welding, and electric resistance welding.
+What are some advantages of gas shielded arc welding? AAAA The weld is stronger, more ductile, and more corrosion resistant.
+Which method of welding is less likely to cause buckling or warping of thin metal sheets? AAAA Electric arc (or TIG) welding.
+What is the purpose of shielding an arc weld with an inert gas? AAAA The gas prevents atmospheric oxygen and/or nitrogen from contaminating the weld.
+What is common method of controlling expansion when welding a joint? AAAA Place tack welds along the length of the joint.
+What is the effect of inadeqate penetration on a weld? AAAA The weld will be weak.
+What is the purpose of the flux used with brazing and silver soldering? AAAA The flux cleans the base metal by removing any oxide film.
+What type of flame is used when torch brazing of silver soldering? AAAA A neutral flame.
+What must be done to a soldering iron tip to increase the amount of heat transferred from the tip to the work? AAAA The tip must be clean of all contaminates and properly tinned.
+What is the preferred method for welding aluminum? AAAA Tungsten Inert Gas (TIG) welding.
+What is the preferred method of welding magnesium? AAAA Tungsten Inert Gas (TIG) welding.
+What precautions must be observed in order to weld titanium? AAAA All traces of oxygen and nitrogen must be kept away from the weld area.
+Describe one type of repair that could be made to a dented steel tube cluster joint. AAAA A formed steel patch plate could be welded over the damaged area.
+How can a soft flame be obtained without reducing the heat output of the torch? AAAA Use a larger tip and adjust the gas pressure accordingly.
+What factors determine the amount of heat delivered by a gas welding torch? AAAA The size of the torch tip and the gas pressure.
+When an oxyacetylene torch is extinguished, which valve is turned off first? AAAA Turn off the acetylene gas valve first.
+When a gas welding project is completed, what safety precautions should be accomplished? AAAA All the valves are turned off and the gas pressures are relieved.
+What should be done to a heat-treated aluminum part after welded repairs are completed? AAAA The part must be re-heat treated.
+Welding magnesium can create a serious safety hazard. What is the nature of this hazard? AAAA Magnesium burns with a very hot flame that is very hard to extinguish.
+What technique might be used to enable a tight-fitting inner sleeve to be inserted into a tubular repair? AAAA The inner tube could be chilled with dry ice or in a freezer while the outer tube could be heated slightly with a torch.
+Aircraft covering fabrics are made of material from what two sources? AAAA Organic materials and synthetic materials.
+How would you determine the strength requirements for fabric used to re-cover an aircraft? AAAA The fabric must be of at least the quality and strength of the fabric used by the orginal manufacturer.
+What two types of organic fibers are used for covering aircraft? AAAA Cotton and linen.
+What is meant by warp, weft, and bias? AAAA Warp is the direction along the length of the fabric, weft is the direction across the the fabric at right angles to the warp, and bias is a direction at a 45 degree angle to the warp and weft.
+What is the purpose of the selvage edge on a roll of fabric? AAAA It prevents the fabric from unraveling.
+What identification marking is found on the selvage edge, and in which direction is the warp applied? AAAA The FAA-PMA stamp is found on the selvage edge and the warp is applied parallel to the line of flight.
+How are the fabric type and strength requirements determined for fabric-covered aircraft? AAAA The original manufacturer determines the fabric type, and the strength requirements are a function of the never-exceed speed and wing loading.
+What types of synthetic fibers are used for covering aircraft? AAAA Fiberglass and heat-shrinkable polyester fibers.
+Which of the several types of fabric is unaffected by moisture and mildew? AAAA Fiberglass.
+What is the function or purpose of reinforcing tape? AAAA Reinforcing tape is used between the fabric and the rib stitching to prevent the lacing cord from cutting through the fabric.
+Where would you use surface tape? AAAA Over rib stitching and sewed seams, over lapped edges, around corners, and along leading and trailing edges.
+How should the edges of drainage, inspection, and ventilation holes be reinforced? AAAA With plastic, aluminum, or brass grommets.
+What are the principle methods used to test the condition of fabric? AAAA Punch testers such as the Maule or Seybolt tester, and laboratory pull-testing.
+Fabric is considered unairworthy when it has deteriorated to what percentage of its original strength? AAAA Less than 70%.
+How should a structure that will be covered with doped fabric be prepared following inspection and prior to covering? AAAA Treat it with a protective coating of paint or varnish as appropriate.
+What is the principal advantage of the envelope method for covering wings? AAAA Almost all the seams are machine-sewed by envelope supplier.
+What is a tie-off knot? AAAA A standard, modified seine knot used on all stitches except the starting stitch.
+Name three common types of machine-sewed seams. AAAA Plain overlap, folded-fell, and French-fell.
+Where are anti-tear strips used? AAAA Under wing rib stitching when the never-exceed speed is greater than 250 mph.
+How would you determine the correct spacing for stitching if the original spacing was unknown? AAAA Consult the chart in AC 43.13-1B.
+why is butyrate dope safer to use than nitrate dope? AAAA it is much less flammable
+What are the two types of dope used for fabric finishes? AAAA Cellulose nitrate and cellulose acetate butyrate.
+What is the appearance of a blushing paint finish? AAAA Chalky or cloudy.
+What finishing defect is the result of a paint room temperature that is too warm? AAAA Pinholes or blisters.
+What causes dope to blush? AAAA High humidity, moisture in the spray system, or application over damp suface.
+What factors cause spray paint sags and runs? AAAA Inadequate surface preparation or paint sprayed on too thickly.
+What components or parts of the airframe must be protected from damae when using paint stripper? AAAA Windshields and windows, plastics, composites, synthetic rubber, and fabrics.
+What is the function or zink-chromate or wash primers? AAAA Primers serve to inhibit corrosion and provide a good bond between the metal and the topcoats.
+Name several common types of paint used on aircraft? AAAA Zink-chromate and wash primers, synthetic enamels, acrylic lacquer, and poyurethane.
+What is the proper thinner to use with zink-chromaate primer? AAAA Toluene
+What health and safty precautions must be observed when using the toxic solvents and hinners that are part of modern finishing systems? AAAA Respirators and/or masks must be worn when spraying finishes.
+If spray painting dust causes a surface to appear dry and rough, what are the most likely causes? AAAA Too much air pressure or the spray gun is too far from the surface being painted.
+What causes"orange-peel"? AAAA Spray pressure too high, use or a thinner that dries too fast, cold temperatures, or a damp draft over the surface.
+What regulation governs the application of the registration numbers to aircraft registers in the United States? AAAA Far part 45
+Other than appearance, what is another reason for touvhing up painted surfaces? AAAA Reduction or wlimination of general corrosion problems.
+What references should be used to determine if a control surface must be checked and/or rebalanced after painting? AAAA The manufacturers service manual.
+What would be the effect if dope was used over paint or enamel? AAAA The dope tends to dissolve these materials.
+What are the three most commonly used methods of applying paint? AAAA Dipping, brushing, and spraying.
+What is the effect on paint finishes if tpp mush drier is added to the paint? AAAA The paint film will be brittle and tend to crack and peel.
+what paint system may be used with epoxy topcoats? AAAA Any paint system in good condition.
+What could cause an AC electric motor to run too fast? AAAA Excessive applied voltage or shorted feild winding.
+What tool is used to check a motor or generator armature for shorts and opens under load conditions? AAAA A growler
+When using a Growler, what idication occur when a short exists between an armature segment? AAAA When a metal blade is held over the armature and a short exists in a seglment, the blade will begin to vibrate and "chatter'.
+How is the output voltage of an alternator controlled? AAAA By varying the field current that excites the alternator.
+What instruments are used to monitor electrical system loads? AAAA Ammeters and Voltmeters.
+How would you identify a specific wire in a wire bundle? AAAA By the identifivation code marked on the wire.
+What tool would you use to determine the size of an unmarked wire? AAAA A wire gauge.
+What color are the navigation lights on the wingtips? AAAA The left wintip is red, the right is green.
+Name severl types of electrical devices the would be considered intermittent loads on an elevtrical system. AAAA LAnding gear, cowl and wing flaps motors, radio transmitters.
+Why would it be necessary to analyze an eelctrical system before increasing the load on the system? AAAA To determine that the generator capacity, wire size, and protective device capacity will not be exceeded.
+What factors should be considered when determining the siZe for a particular application? AAAA The system voltage, permissible voltage drop. current to be carried, wire length and whether the load is continuous or intermittent.
+What is the relationship between the inside diameter of a conduit and the outside diamerter of the wire bundle inside it? AAAA The conduit must be 25% larger than the wire bundle.
+What is the maximum number of terminal lugs that can be placed on a single terminal strip stud? AAAA Four
+What is the proper length for a bonded jumper? AAAA As short as practical, but long enough to allow free movment or the component.
+Under what conditions must a switch be derated from its nominal rating? AAAA When used with inductive citcuits with high in-rush current, and with DC motors.
+At what point do electric motors draw the most current? AAAA When starting.
+Circuit breakers are desighed to open before what condition occurs? AAAA Before the wire emits smoke.
+At what point in a circuit should the protective device be located? AAAA As close to the power source as possible.
+What type of circuit breaker may not be used in an aircraft? AAAA An automatic resetting type.
+What part of an aircraft is identified by a white navigation light? AAAA The tail.
+What could cause an AC electric motor to run too slowly? AAAA Lack of lubrication, sefective wiring, or low aplied voltage.
+What should be done when making bonding or grounding connections between dissimilar materials? AAAA Use a suitable washer so that any corrosion will occur an the washer.
+Prior to making a continuity chec, what must be done to electrical circuit? AAAA The power must be turned off.
+What materials form the bases of the three types of hydraulicfluids? AAAA Vegetable, mineral, and phosphate-esters.
+What colors denote mineral based and phosphate-ester hydraulic fluids? AAAA Mineral based fluids are red and phosphate-ester based fluids are light purple.
+What are the results of exposing lacquers, oil-based paint, plastic resins, and vinyl compounds to phosphate-ester-based hydraulic fluid? AAAA The materials will be damaged and/or softened, or the paint will peel.
+NAme several sources used to develop hydraulic pressure. AAAA Hand pump, engine-driven pumps, and electrically driven pumps.
+What would cause the bypass valve in a hydraulic filter to open and allow unfiltered fluid to circulate in the system? AAAA A clogged filter element.
+Describe several methods of pressurizing a hydraulic reservoir. AAAA Engine bleed air, system pressure acting on a small piston inthe reservoir, using variable-displacement hydraulic pumps.
+what feature prevents engine damage if an engine-driven hydraulic pump seizes or is overloaded? AAAA A shear section in the pump driveshaft will break, disconnecting the pump from the engine.
+Describe the purpose of a pressure relief valve. AAAA Pressure relief valves limit the maximum pressure produced by the pump, thereby preventing failures of the system components.
+Engine-driven pumps deliver the output fluid in what two forms? AAAA As a constant volume or a vatiable volume.
+Describe the operation of a gear-type pump. AAAA Two meshed gears, driven by a power source, rotate in a housing. Inlet fluid is carried around the outside of the gears and delivered to the outlet side as the gears rotate.
+Describe the purpose regulators manage the output of the pump to maintain system pressure. AAAA They allow the pump to be unloaded so it turns without significant resistance.
+what is the device that is used in some systems to supplement the pump output during periods of high demand? AAAA An accumulator.
+What are the three types of accumulators? AAAA Piston, diaphragm, and bladder.
+What safty precautions must be taken prior to dissembling an accumulator? AAAA Release all of the air or preload.
+Whaen a hydraulic unit is replaced, what precautions should be taken to avoid contamination of the system? AAAA All lines should be capped or plugged immediately after they are disconnected.
+What types of components or systems are pneumatically operated in some aircraft? AAAA landing gear, brakes, flaps, and other mechanical actuators.
+Name several sources of pneumatic power. AAAA Storage bottles, engine bleed air , engine-driven compressors or vane-type pumps.
+What happens to ecess pressure in a pnumatic system? AAAA A relief valve vents it overboard.
+What is the function of a restrictor in a pneumatic system? AAAA To control the rate of flow of the airflow.
+What are the reasons for periodically purging a pneumatic system. AAAA To remove moisture and contaminants.
+what is the pupose of a torque link on an oleo strut? AAAA To keep the wheel in alignment and prevent the piston from coming out of the cylinder.
+A landing gear shock strut should be inflated with what gas? AAAA Nitrogen or dry air.
+What conditions should a mechanic look for during a regular inspection of the exposed piston section of a landing gear? AAAA Cleanliness, evidence of damage, and proper extension.
+What prevents air from leaking out between the two halves of a split wheel assembly? AAAA An O-ring.
+Why are fusible plugs installed on some aircraft wheels? AAAA To release the pressure generated by heat built-up before a tire blows.
+What safety precaution must be taken when removing a wheel from an axle or when disassembling a wheel? AAAA Verify that the tire is completely deflated before removing a wheel from a axle or before wheel disassebly.
+What are the visible signs of excessive heating on a wheel bearing? AAAA The bearing surface show discoloration.
+How are the pilots nose wheel steering commands trasmitted to the steering control unit of a large aircraft? AAAA Steering signals may be transmitted mechanically, electrically, or hydraulically.
+How is the nose wheel steering mechanism usually acyuated on a small aircraft? AAAA By means of a mechanical linkage connected to the rudder pedals.
+What is the name of the unit that prevents a nose wheel from vibrating of oscillating? AAAA A shimmy damper.
+What are the most common sources of power used to extend and retract landing gear? AAAA Hydraulic pressure and ellctric motors.
+At what times should a gear retraction check be performed? AAAA During annual or other inspections and following a hard landing.
+What mechanism ensure that a nose wheel is not turned as it retracts into wheelwell? AAAA Internal centering cams in the strut or an external track.
+Name several types of brake actuating systems. AAAA Independent master cylinders, boosted brakes, and power-controlled brakes.
+What is the function of an anti-skid system? AAAA Anti-skid system allows large aircraft to achieve maximum braking effectiveness without allowing wheels to skid or lock.
+What is the purpose of a debooster? AAAA To resuce hydraulic system high pressure to a lower for more satisfactory brake action.
+Describe two methods of bleeding brakes. AAAA Apressure pot can be attached to the bleeder valve and fluid forced back towards the master cylinder and/or reservoir, or the master cylindre can be used for forcing fluid from the reservoir to the brakes.
+Before a brake system can be inspected for leaks, what action must be accomplished? AAAA Pressure must be applied to the system.
+What maintenance function has the greatest impact on tire service life? AAAA ensuring that the tires are properly inflated.
+What effects does under-inflation have on aircraft tires? AAAA Internal heat damage possibly leading to premature tire failure, and more tread wear on the shoulders than in the center.
+What unit in an anyi-skid system generates the anti-skid warning signal? AAAA The control unit.
+How is a pilot alerted that an anti-skid system has automatically returned to a manual brake system? AAAA By a warning light.
+What is the significance of an anti-skid warning? AAAA The system is off or has failed.
+By what usual means does the stall warning system in a small aircraft alert the pilot of an impending stall? AAAA An audible alert and/or a warning light.
+What devices are used to provide warnings for a retractable landing gear system? AAAA A horn or other aural device, and a red warning light or lights.
+How can a pilot determine that the landing gear is down and locked? AAAA Agreen light or lights and/or another type of visual indicator.
+Name at least two conditions that would activate a takeoff configuration warning system in a jet tramsport aircraft. AAAA Incorrect leading or lrailing edge flap posistion, stabilizer position, or speed brake not stowed. The manufacturer may establish other conditions.
+What landing gear positions must be indicated by regulations? AAAA Down and locked and up and locked.
+Under what conditions will a landing gear aural warning sound? AAAA When the throttle is retarded and the landing gear is not down and locked.
+How does a takeoff configuration warning diiffer from a landing gear warninig? AAAA Takeoff warnings are usually an intermittent horns while gear warnings are steady.
+What is the function of a Mach airspeed warning system? AAAA To alert the pilot that the never-exceed airspeed limit has been reached or exceeded.
+What systems are commonly used to activate the landing gear warning system? AAAA The throttles(thrust levers) and the wing flaps.
+Why so airplanes with bleed air anti-icing of the wing leading edge have an anti-ice overheat light(s)? AAAA To indicate an over-temperature condition, usually as the result of a bresk in the bleed air ducts.
+What warning system may be requied when a nickel-cadmium battery is installed in an airccraft? AAAA A better temperature monitoring system.
+At what time would a check of a landing gear warning system normally be made? AAAA Duringg a landing gear reraction test.
+What is the purpose of an annunciator system? AAAA To show, by means of a warning light, that some system parameter requies attention by the flight crew.
+If an aircraft with retractable landing gear has only one green light to indicate the gear is down and locked, how will the switches be connected, in series or in parallel? AAAA In series.
+Where would you locate the procedures for checking and adjusting the landing gear switches? AAAA In the airctaft manufacturer's manual.
+What is the usual means for alerting the crew of a jet transport that the cabin doors are not properly closed? AAAA A warning light.
+Why are transport category aircraft aircraft equipped with a master caution and warning system? AAAA To alert the crew that a malfunction has occurred and corrective action may be required.
+A static check may be performed on a mannifold pressure gauge by using what of information? AAAA Current atmospheric pressure.
+What aircraft instrument can be used to check a manifold pressure gauge for proper indication? AAAA The sensitive altimeter.
+Name several of the indication errors that may be found in altimeters. AAAA Scale errors, hysteresis, friction, installation.
+Wjat is the signall source in an electrical resistance-type temperature indicating system? AAAA A temperature bulb or sensing element.
+What type of temperature sensing system is normally used to measure a turbine engine exhaust gas temperature? AAAA A termocouple-type system.
+What operating parameter is indicated by a tachometer? AAAA Engine RPM (i.e, crankshaft or turbine rotor speed)
+What is the name of the effect that causes a gyro to respond to an applied force at a ppoint 90 degrees further in the direction of rotaion. AAAA Gyroscopic precession
+What are the three sources of power used to drive a gyroscopic turn indicator? AAAA Air from a vacuum or pressure soirce, or an electric motor.
+What are two items that should be considered during inspection of a magnetic compass? AAAA 1. The fluid must be clear. 2. The housing must be full with no bubbles. 3. The card must be legible and the luber line intact. 4. The compass should be properly calibrated.
+In what way do magnetic fields generated by electrical equipment and steel parts in the airplane affect a magnetic compass? AAAA Stray magnetic fields deflact the compass from alignment with the earth's magnetic field.
+Describe the basic operating concept of a synchro-type remote indicating system. AAAA A remote transmitter eletrically signals a receiver inside the instrument.
+What aircraft instruments are connected to the pitot-static system? AAAA The altimeter, vertical speed indicator, airspeed and mach meter in high-performance jets.
+Why should you avoid cleaning obstrucyons from the sensing holes in a pitot-static system with a tool? AAAA The holes are aerodymaically critical.
+After components in a pitot-static system been replaced, what test or inspections are required? AAAA The static system leak test specifiedby FAR 91.411.
+What quanitity is accurately measured by capacitance-type fuel quanitiy indicating system? AAAA The mass of the fuel.
+Who is authorized to app;y the range marking to an instrument dial face? AAAA The manufacturer or a certificated instrument repepair station.
+What is the purpose of a slippage mark on an instrument glass? AAAA To indicate if the glass has moved, which could cause incorrect range markings on an instrument that has the range markings painted on the glass.
+What refernces should be consulted to determine the proper renge markings for aircraft instruments? AAAA The aircraft maintenance manual, aircraft flight manual, Type Certificate Data Sheet or aircraft specifications.
+What is the meaning of a yellow arc on an aircraft instrument? AAAA A caution or limited flight operations range.
+What is the reason for" swinging" a compass and how is it accomplished? AAAA To compensate for deviations, caused by magnetic fields in the aircraft, by adjusting the campensating magnets.
+What are the basic components of a radio communication system? AAAA A microphone, transmitter, transmitting and receiving antennas, receiver, and speaker or headphones.
+What frequency range is used by modern voice communications systems? AAAA The VHF( very high frequency) band( 118.0 to 136.975 MHz)
+What does the term "ADF" stand for? AAAA Airborne Direction Finding (Finder)
+What is the function of VOR equipment? AAAA Navigation
+Name the components of a typical airborne VOR navigation system. AAAA A receiver,antennas, frequency selector and a visual display indicator.
+What does BME stand for? AAAA Distance Measuring Equipment
+At what interval must an ATC transponder system be certified? AAAA Every 24 calendar months.
+Why are two antennas usually required for an ILS system? AAAA The localizer and glideslope signals are transmitted on different frequencies.
+What information does the glideslope beam provide? AAAA Vertical guidance to enable the aircraft to maintain the correct descent angle.
+What is the power source for an ELT (Emergency Locator Transmitter)? AAAA An internal battery
+Describe one method of monitoring the signal output during an ELT test? AAAA Tune a communication receiver to 121.5 MHz.
+How would you derermine if the batteries in an ELT are due for rechatge or replacement? AAAA By looking for an expiration date for recharge or replacement on the battery and/or in the aircraft maintenance records.
+At what time(s) is a test of an installed ELT permitted? AAAA During the first 5 minutes after the hour and for no more than 3 sweeps.
+Where on the aircraft would you expect to find a DME antenna? AAAA Generally on the bottom of the fuselage in a location that isn't blocked by wing during turns.
+Describe the shap and location of a transponder antenna. AAAA Either a short blade or a short wire with a ball end located on the bottom of the fuselage.
+Name the basic components of an autopilot system. AAAA Gyros, servos, a controller, and an amplifier or computer.
+What are the sensing elements of an auto system? AAAA Attitude, directional, and turning gyros, and an altitude sensor.
+What is the function of the servos in an autopilot system? AAAA The servos actuate the flight controls.
+What is the purpose of a bonding jumper from radio shock mount to the airframe? AAAA To provide a low-impedance ground return.
+Describe the procedure used to route coaxial cable from an antenna to a receiver. AAAA The cable should be supported every w feet, bends should be 10 times the cable diameter, and it should be routed separately from other wires.
+What controls the temperature in a thermal anti-icing system? AAAA Hot and cold air are mixed.
+What are the sources of heat for thermal anti-icing system? AAAA Bleed air from the compressor section of a tubine engine, engine exhaust heat exchangers and combustion heaters.
+What prevents overheating of the leading edges of a thermal anti-ice system operated by engine bleed air? AAAA Overheat sensors signal the anti-icing valves to close and shut off the hot air.
+What happens to the air hot air used by a thermal anti-ice system after it has heated the surface? AAAA The air is dumped (exhausted) overboard.
+Why is it necessary to provide overheat protection for anti-ice systems that use turbine engine bleed air? AAAA The air is hot enough to cause damage to the aircraft structure.
+What are the effectd of arcing on an electrically heated windshild? AAAA Localized overheated and damage to the windshied.
+Can the operation of an electrically heated pitot-tube be cheaked with the aircraft's ammeter, and if so, how? AAAA Yes, turn the pitot heater on and observe the deflevtion of the ammeter needle.
+Describe several potential problems associaated with electrically heated windshields. AAAA Arcing, delaminayion, scratches, and discoloration.
+Why do some pneumaatic deicer boot systems have an electrically operated timer? AAAA To automatically cycle the boots, provide the proper rest time, and then recycle the boots.
+What are the two common methods of inflating pneumatic decer boots? AAAA Bleed air from a turbine engine or the exhaust from an engine-driven vacuum pump.
+What procedure is used to hold deicer boots flat with the airfoil surface during flight? AAAA Suction is applied to the boots.
+Why do some deicer boot systems incorporate an oil separator? AAAA If a wet pump system is used, the oil must be removed before it reaches the boots because oil damages the rubber.
+What methods are used to attach a deicer boot to the leading edges of the wing and tail surfaces? AAAA Adhesivees, fairing strips and screws, or a combination of both.
+What important step should be taken prior to making a cold-patch repair to a deicer boot? AAAA Consult the manufacturer's service manual and follow the repair instructions explicitly.
+Describe the methods commonly used to remove rain from a windshield? AAAA Windshield wipers, blast of air, or chemical rain repellant.
+What power sources are used to operate windshield wipers? AAAA Electricity or hydraulic pressure.
+Name two problems associated with in-flight opeation of aircraft windshield wipers. AAAA Insufficient blade pressure caused by aerodynamic forces and failure to osscillate fast enough.
+Describe the operation of a pneumatic rain removal system. AAAA A high velocity air blast prevents the tain from reaching the surface of the windshield.
+What are the sffects of spraying rain repellant on a dry windshield? AAAA It smears and streaks, which reduces visibility, and it is hard to remove when dry.
+Where would you find information on the acceptable limits of windshield delamination? AAAA In reference material provided by the manufacturer.
+Is there any special requirement as to the type of oxgen used in an aircraft system, and if so, what is it? AAAA Only aviator's breathing oxygen should be used.
+Describe the operating principle of a continuous-flow oxgen system? AAAA High-pressure oxygen flows from the storage cylinder to a pressure regulator where its pressure is reduced and then to the maskk outlets whenever the system is turned on.
+Describe the operaating principle of a pressure-demand oxygen system? AAAA Demand ssystems allow to flow from the cylinder to the regulator and then to the mask only when the uset inhales. Pressure-demand systems provide oxygen to the mask aat higher than atmospheric pressure when used at extremely high altitudes, forcing oxygen into the user's lungs.
+What should be used to purge an oxygen system of moisture? AAAA Oxygen, dry air, or dry nitrogen.
+What action must be taken when an oxygen system has been open to the atmosphere? AAAA The sytem must be purged of any moisture.
+Describe the safety precautions that should be observed when servicing oxygen systems. AAAA Aviod all contact with petroleum-based oil or grease, don't smoke, keep everything very clean, service systems outdoors if at all possibe, and keep the caps on the bottles to protect the valves.
+What is a roots blower? AAAA A type of engine-driven compressor.
+Name two differant types of independent cabin air compressors? AAAA Positive-displacement and centrifugal.
+What is the source of pressutization air most jet aircraft? AAAA Engine bleed air.
+What provides the principle means of controlling cabin pressure? AAAA The outflow valve.
+What unit regulates the position of an outflow valve? AAAA The cabin pressure controller.
+Name several methods used on reiprocating-engine aircraft for providing heated cabin air. AAAA Exhaust shroud heat exchangers, combustion heaters, and electric heaters.
+What is the function of the ventilating air in a combustion heater? AAAA Ventilating air transport the heat from the heater into the cabin and prevents combustion gases from entering the cabin if the comustion chamber develops a crack.
+What are the sources of ventilating air in a combustion heater? AAAA Ram air in flight, blower on the ground, or possibly a compressor if the airplane is pressurized.
+Name the basic components of an air-cycle cooling system. AAAA The compressor and expansion turbine, heat exchangers, and various valves.
+Describe the basic operating principles that allow air-cycle system to produce cool air. AAAA Hot engine bleed air is cooled in the primaary heat exchanger, compressed, then cooled again in the secondary heat exchanger. This air expanded across the turbine where energy is extracted and the pressure is reduced. This produces a large temperature drop.
+Describe the basic operating principles of a water separator. AAAA Cool, moist air is swirled so that water droplets are separated by centrifugl force, captured by sock, and drainied.
+Name the principle components of a vapor-cycle system. AAAA A ccompressor, condenser, expansion valve, and an evaporator.
+In what significant way is a vapor-cycle cooling system different from an air-cycle system? AAAA Vapor-cycle systems use a refrigerant liquid, usually Freon.
+Why is oil added to the refrigerant in a vapor-cycle air conditioning system? AAAA To lubricate the compressor.
+Why do some aircraft have fuel jettison systems? AAAA To allow the crew to reduce the weight of the aircraft sown to or below the maximum allowable landing weight.
+Is there any reason why a fuel jettison system might be required on a small aircraft? AAAA Yes, if the maximum takeoff weight exceeds the maximum allowable landing weight, a jettison system would be required.
+What are some other names for a single-point fueling system? AAAA An underwing or pressure fueling system.
+Why so multi-engine airplanes have fuel crossfeed systems? AAAA To allow any engine to draw fuel from any tank.
+The fuel selector valve for a multi-engine aircraft must have at least three positions. What are they? AAAA ON,OFF,and Crossfeed.
+Why so some fuel tanks have internal baffles? AAAA To resist fuel surging or sloshing caused by chages in the attitude of the aircraft.
+What are the two types of fuel cells? AAAA Intergral or wet wing fuel cells, and bladder-type fuel cells.
+What does the term "wet wing" mean? AAAA It means that sealed portions of the aircraft wing structure form the fuel tank(s).
+How is the weight of the fuel supported when bladder-type fuel cells are used? AAAA The bladder is supported by the aircraft structure which contains it.
+Why do turbine-engine aircraft have huel temperature indicating systems? AAAA To allow the crew to determine if the fuel is cold enough to produce a danger of the formation of ice crystals.
+Name four types of fuel quantity gauging systems currently in use. AAAA Sight gauges, mechanical, electric, and electronic gauges.
+Why are electronic (capacitance-type) fuel quantity indicating systems more accurate than other types? AAAA They measure the mass of the fuel instead of the volume.
+What are drip gauges and sight gauges? AAAA Underwing, bayonet-type fuel gauges.
+What is the purpose of an in-transit light associated with an electrically operated fuel tank shutoff valve? AAAA To provide an indication that the valve is in motion between one position and another.
+For what reason is a fuel jettison system usually divided into two separate,independent systems, one for each wing? AAAA To help maintain lateral stability by jettisoning fuel from a heavy wing if necessary.
+What procedures should be followed regarding gaskets and seals when replacing fuel system components? AAAA All old gaskets and seals should be replaced with new ones.
+Is it possible for a fuel system to develop a leak that has no visible evidence such as a stain or spot, and if so, how? AAAA An internal component such as a vallve could develop a leak.
+How is a fuel tank checked for leaks following a patch or weded repair? AAAA The tank is slightly pressurized with air and the repaired area is leak-checked with a soap and water solution
+NAme some advantages of a single-point fueling system. AAAA It reduces fueling time, reduces chances for contamination and fire, and eliminates damage to the aircraft skin.
+Why should you wait for a period of time after fueling an aircraft before checking the fuel sumps? AAAA To allow time for water and contaminants to settle to the drain point.
+Briefly describe the components of a thermal switch fire detection system? AAAA Tenperature sensitive switches that complete a circuit at a specific temperature and trigger a warning.
+Are thermal switches wired in series or parallel with each other? AAAA Parallel
+How are the dtector units in a double-loop Fenwal system wired? AAAA In parallel between two complete loops of wire.
+In what way is a thermocouple fire warning system different from a thermal switch system? AAAA Thermocouple system are sensitive to the rate of temperature change, whereas thermal switch systems respond to a specific temperature value.
+Briefly describe the components of a kidde continuous loop fire detection system. AAAA A kidde system has an Inconel tube containing one or more wires embedded in a ceramic core whose resistance changes with temperature.
+Briefly describe the components and operation of a Lindberg fire detection system? AAAA A stainless steel tube contains an inert gas and a discrete materiaal that absorbs some of the gas.When the tube heats up, some gas is released, raising the pressure in the tube, which activates a pressure switch.
+Describe the process or mechanism by which a plotoelectric smoke detector generates a warning of a possible fire. AAAA Smoke particals refract light in the detector unit causing the photoelectric cell to conduct electricity and trigger the alarm.
+How can the operation of a photoelectric smoke detector be tested? AAAA By actuating a test switch.
+Name two types of smoke detection systems used in aircraft. AAAA Light refraction (photoelectric) types and ionization types.
+What are the usual locations where a carbon monoxide detector would be installed? AAAA In an aircraft cockpit or cabin.
+How does a carbon monoxide detector indicate the presence of this deadly gas? AAAA The tan spot on the detector turns gray or black.
+What are the possible effects of kinks and sharp bends in the sensing element(s) of a fire warning system? AAAA False fire warnings caused by short circuits.
+How is a Freon container checked for proper pressure? AAAA A chart must be used to determine the maximum and minimum gauge pressure readings based on the ambient temperature.
+Name the two basic types of fire extinguishing systems.. AAAA The concentional system and the high-rate discharge system
+Name the extinguishing agent most commonly used conventional fire extinguishing systems. AAAA Carbon dioxide (CO2)
+Name the extinguishing agent most commonly used by high-rate discharge fire extinguishing systems. AAAA Halon (Halogenated hydrocarbon type agents), also known as Freon.
+How are Freon bottles protected from excessively high temperatures and how can you tell that this has occurred? AAAA A thermal fuse ( or blowout disk) will release the agent if the bottle temperature exceeds a certain limit. This blows out a red indicator disk.
+What condition is indicated if the yellow disk is missing in a fire extinguishing system? AAAA The system has been discharged normally.
+Describe the mechanism by whicj a Ffreon bottle is discharged. AAAA A electrical signal fires an exp;psive squib, which ruptures a frangible disk.
+How is the service life of a discharge cartridge calculated? AAAA From the date stamped on the cartridge by the manufacturer.
+Where do you find the regulation that specifies the operations that make 100-hour inspections mandatory? AAAA FAR Part 91
+Acertificated Airframe & Powerp;ant mechanic may sign off and approve the retun to service following what type of inspection? AAAA A 100-hour inspection.
+Under what conditions may a mechanic perform an annual inspection and return the aircraft to service? AAAA The mechanic must hold an Inspection Authorization.
+What is the time frame within an annual inspection must be performed if such an inspection is required? AAAA Within the preceding 12 calendar months.
+Under what condition may any checklist be used as a guide for a 100-hour inspection? AAAA The checklist must meet the minimum standards specified in FAR Part 43, Appenddix D.
+May an aircraft that is overdue for an annual inspection be flown to a place wher the inspection can be performed. AAAA Yes, provided a ferry (special flight) permit is obtained.
+Inorder for an individual person to conduct a 100-hour inspection and approve the return to service, that person must have what type of certificate(s)? AAAA A mechanic's certificate with both the airframe and powerplant ratings.
+An aircraft is required by FAR 91.409 to have a 100-hour inspection. Is it legal to fly that airplane beyond tha inspection requirement, and if so, for how long? AAAA Yes, the aircraft may be operated for up to 10 hours, if required, to reach a place where the inspection can be accomplished.
+An airplane is flown 4 hours over the 100-hour inspection limit to reach your maintenance facility. How do you account for those 4 hours? AAAA The 4 hours are included in the nest 100 hour time-in-service period.
+What types of operations require that aircraft operating under Part 91 must undergo 100-hour inspections? AAAA Aircraft operated for compensation or hire, or used for flight instruction when provided by the flight instructor.
+An aircraft under a progressive inspection program is operated for compensation or hire. Does it need a 100-hour inspection? AAAA No, progressive inspections replace 100-hour inspections.
+Who is authoried to supervise a progressive inspection? AAAA Certifivated A&P mechanics who hold an Inspection Authorization, certified repair stations, or the aircraft manufacturer.
+When a progressive inspection program is discontinued, at what time is the next 100-hour inspection due? AAAA 100 hours after the last comp;ete inspection of the progressive program.
+An owner desires to use a progressive inspection program. to whom does the owner apply for authorization? AAAA To the FAA Flight Standards District Office having jurisdiction over the area where the owner is located.
+Is an engine run-up required as part of a 100-hout inspection ana turbine powered aircraft? AAAA Yes
+Where would you locate the required items that must be recorded in the aircraft maintenance records following completion of a 100-hour inspection? AAAA FAR Part 43
+Wher might you locate sample of the recommended ststement for recording the approval for return to service of an aircraft following vompletion of an annual or 100-hour inspection? AAAA FAR Part 43
+Where would you look to find approved information for work on an aircraft electrical system? AAAA In the manufacturer's maintenance manual or other instructions continued airworthiness.
+What are the limitations placed on mechanics with regard to propellers? AAAA Mechanics may not perform major repairs to, ar alterations of, propellers.
+After equipment is installed in accordance with an STC, who must approve the return to service? AAAA An A & P mechanic who holds an inspection authorization.

@@ -1,0 +1,610 @@
+What are your requirements as an aircraft mechanic when you have a change of address? AAAA You must notify the FAA in writing within 30 days of any change to your permanent address.
+BBBB
+ Is a person with a private pilot's certificate allowed to perform maintenance and, if so, what are his/her limitations? AAAA A pilot may perform preventative maintenance in accordance with FAR Part 43.3, 43.7 and appendix A on an airplane owned by the pilot. He/she can also approve the aircraft for return to service following that maintenance.
+
+Reference: FAR part 43.
+BBBB
+ What should a mechanic do if his/her temporary certificate is about to expire? AAAA Contact the local FAA office and seek assistance.
+
+Reference: FAR part 65
+BBBB
+ What is the duration of a temporary airman's certificate? AAAA 120 days.
+
+Reference: FAR part 65
+BBBB
+ If a mechanics certificate is revoked, how long must he/she wait before applying for a new certificate? AAAA One year unless the revocation order states otherwise. 
+
+Reference : FAR part 65
+BBBB
+ May a mechanic supervise an inspection (or portion of an inspection) and then approve the aircraft for return to service? AAAA No. 
+The mechanic approving the aircraft for return to service must actually perform the inspection.
+BBBB
+ When may a mechanic perform an annual inspection and return the aircraft to service? AAAA When the mechanic holds an Inspection Authorization.
+BBBB
+ In addition to performing maintenance, what other privileges are granted to a powerplant mechanic? AAAA A powerplant mechanic may perform a 100-hour on an engine and approve the engine for return to service.
+BBBB
+ What are privlidges and limitations of an A&P mechanic regarding major repairs and alterations to airframe and engines and their approval for return to service? AAAA A&p mechanics may perform major repairs and alterations but may not approve them for return to service unless they hold an Inspection Authorization.
+BBBB
+ What is the duration of a mechanics certificate.? AAAA The certificate is valid until surrendered, suspended or revoked.
+BBBB
+ What are the privlidges of an A&P mechanic regarding inspections? AAAA A mechanic may perform and approve for return to service an airframe or engine following a 100-hour inspection.
+BBBB
+ What authority does a mechanic have regarding approval for return to service? AAAA A mechanic may approve an aircraft, airframe, engine, propeller or appliance for return to service in accordance with the provisions of FAR part 65.
+BBBB
+ What are the requirements for recent experience in order to exercise the privlidges of mechanic's certificate or rating? AAAA You must have worked as a mechanic or technically supervised other mechanics for at least 6 months out of the past 24 months.
+BBBB
+ Is a mechanic allowed to repair or alter an aircraft instrument? AAAA No.
+Mechanics may not perform any repairs or alterations on instruments.
+BBBB
+ What are the limitations to a mechanic's privlidges with regard to propellers? AAAA A mechanic may not perform or supervise major repairs to, or major alterations of propellers.
+BBBB
+ Is a certificated airframe mechanic allowed to perform maintenance on engines? AAAA Not unless they are supervised by a certificated powerplant mechanic.
+BBBB
+ What types of work may a certificated mechanic perform? AAAA A mechanic may perform or supervise maintenance, preventive maintenance, or alterations.
+BBBB
+ What are the ratings issued under a mechanics certificate? AAAA Airframe and Powerplant
+BBBB
+ Where are the FARSs will you find the certification requirements for mechanics? AAAA FAR part 65
+BBBB
+ What publication should a mechanic consult to determine if a repair is considered major or minor? AAAA 14 CFR (FAR) Part 43, appendix A
+BBBB
+ How can you determine that an aircraft part or appliance you receive is serviceable? AAAA By an approval for return to service in the maintenance record for the part or appliance. With completed Form 337.
+
+Reference : FAR - M
+BBBB
+ When performing an inspection required by FAR Part 91, what rotorcraft systems must be inspected in accordance with the manufacturer's maintenance manual or instructions for continued airworthiness? AAAA The drive shafts or similar systems. The main rotor transmission gearbox for obvious defects. The main rotor and center section. The auxiliary rotor on helicopters.
+
+Reference : FAR - M
+BBBB
+ What is the difference between the terms "overhaul" and "rebuilding as they pertain to aircraft engine maintenance records? AAAA "Overhauled" engines must be tested and approved or acceptable current standards and technical data. "Rebuilt" engines must be tested to the same tolerance and limits as a new engine.
+
+Reference : FAR - M
+BBBB
+ What persons are authorized to make the required maintenance entry approving the return to service after a progressive inspection is performed at a location other than the aircrafts home base? AAAA An applicable certified mechanic. An appropriate rated repair station. The aircraft manufacturer.
+
+Reference : FAR - M
+BBBB
+ What are the penalties for making fraudulent or intentionally false entries in any required record or report? AAAA The applicable airmen certificate(s) can be suspended or revoked.
+
+Reference : FAR - M
+BBBB
+ How do the regulations define "time in service" in regards to maintenance record entries? AAAA With respect to maintenance entries, "time in service" begins with the aircraft leaves the surface of the earth until it touches at the next point of landing. 
+
+Reference : FAR - M
+BBBB
+ Are there any circumstances when more than two copies of Form 337 are required, and if so, when? AAAA Yes.
+Three copies are required when a fuel tank is installed in the passenger or baggage compartment. The third copy must be kept aboard the aircraft. 
+
+Reference : FAR - M
+BBBB
+ Who has the authority to rebuild an aircraft engine and return the operating time to zero? AAAA Only the engine manufacturer or an overhaul facility approved by the manufacturer. 
+
+Reference : FAR - M
+BBBB
+ What regulation authorizes a certificated mechanic who holds an Inspection Authorization to approve or disapprove a major repair or alteration? AAAA FAR 65.95
+BBBB
+ What maintenance record entries are required to contain the aircraft total time in service? AAAA Only records of inspection require the total time.
+BBBB
+ What documents must be prepared when a required inspection is performed and defects are found which render the aircraft or engine unairworthy? AAAA The required maintenance entries must be made and a list of discrepancies and unairworthy items must be furnished to the owner.
+BBBB
+ What person makes the final maintenance record entry after a 100-hour inspection is completed? AAAA The person approving the aircraft for return to service.
+BBBB
+ What must be entered into the aircraft records after maintenance is performed? AAAA 1) A description of the work performed and or reference to acceptable data.
+2) The date the work was completed. 
+3) The signature, certificate number and type of certificate of the person approving the aircraft for return to service.
+BBBB
+ Where should a 100-hour inspection be recorded? AAAA In the appropriate maintenance record for the airframe, powerplant, propeller or appliance.
+BBBB
+ In what publication may a mechanic find an example of a maintenance record entry for a 100-hour inspection AAAA FAR Part 43.11
+BBBB
+ For what period of time must an aircraft owner maintain the records of a 100-hour inspection? AAAA Until the work is superseded or for one year after the inspection.
+BBBB
+ When an aircraft is sold, what do the regulations require regarding the disposition of records that contain the current status of Airworthiness Directives? AAAA The seller must transfer the records to the buyer at the time of sale.
+BBBB
+ When completion of FAA Form 337 is required, how many copies are normally prepared and what is their distribution? AAAA Two signed copies. One is given to the aircraft owner and one is sent to the local FAA Flight Standards District Office within 48 hours for the approval or return to service.
+BBBB
+ Records of a major alteration must be made in what two places? AAAA The aircraft maintenance records and FAA Form 337.
+BBBB
+ Where do you find the minimum scope and detail requirements that a 100-hour inspection checklist must contain? AAAA FAR Part 43 Appendix D
+BBBB
+ How are AD updates issued to subscribers to the Summary of Airworthiness Directives? AAAA Through biweekly suppliments.
+BBBB
+ As a certificated mechanic, will you automatically receive all AD's? AAAA No.
+ADs are automatically sent only to registered aircraft owners.
+BBBB
+ How often is the summary of ADs published? AAAA Every two years.
+BBBB
+ If you need to determine the serviceable dimensional limits for an engine part, what publication would you consult? AAAA The current engine manufacturer's overhaul manual.
+BBBB
+ What kinds of publications are used by aircraft manufacturers to notify owners of design defects and product improvements? AAAA Service Bulletins, service letters and service instructions.
+BBBB
+ Under what circumstances is compliance with a Manufacturers Service Bulletin mandatory? AAAA When the service bulletin is incorporated in an AD (or other approved data).
+BBBB
+ What is the name of the manual that the manufacturer provides to technicians who normally perform work on the systems and components of an aircraft? AAAA The aircraft maintenance manual.
+BBBB
+ What reference material can be used to determine if an aircraft is certificated in more than one category? AAAA The Type Certificate Data Sheets and/or Aircraft Specifications.
+BBBB
+ In what FAA publication could you find a list of engines approved for use in a specific make and model of airplane? AAAA In the Type Certificate Data Sheets and/or Aircraft Specifications.
+BBBB
+ What publication would you consult to determine an aircraft's (or engine's or propeller's) type design and it's limitations? AAAA In the Type Certificate Data Sheets and/or Aircraft Specifications.
+BBBB
+ What are Advisory Circulars? AAAA Non-regulatory information of interest to the aviation public.
+BBBB
+ What publication might you consult for guidance when maintaining an old aircraft for which no maintenance manual exists? AAAA AC 43. 13-1B or its latest revision.
+BBBB
+ How can you determine if the repair of damage is a major or minor repair? AAAA FAR Part 43, Appendix A defines major and minor repairs as well as preventive maintenance.
+BBBB
+ If a mechanic wishes to develop a checklist for an annual or 100-hour inspection, what publication contains the guidelines for required inspection items? AAAA FAR Part 43 Appendix D contains the scope and detail of an inspection checklist.
+BBBB
+ How do you determine the timeframe within which AD compliance is required? AAAA The AD contains the compliance time or period for completing the corrective action.
+BBBB
+ How does the FAA notify the aircraft owner of unsafe conditions that must be corrected? AAAA By issuing Airworthiness Directives.
+BBBB
+ Why are Airworthiness Directives issued? AAAA To correct unsafe conditions found in aircraft, engines, propellers, or appliances.
+BBBB
+ Who is responsible for ensuring that only the most current information is used when performing maintenance on a aircraft? AAAA The person performing the maintenance.
+BBBB
+ What part of the FARs describes the performance characteristics that small aircraft must demonstrate in order to be airworthy? AAAA FAR Part 23
+BBBB
+ What part of the FARs describes the airworthiness standards for Transport Category airplanes? AAAA FAR Part 25
+BBBB
+ What federal aviation regulation prescribes the requirements for issuance of a type certificate? AAAA FAR (14 CFR) Part 21.
+BBBB
+ What are the indications of water in the aircraft fuel after deaining a sample from the fuel sumps? AAAA The sample may have a cloudy or hazy appearance or a solid slug of water.
+BBBB
+ Under what conditions may automobile gasoline be used in an aircraft engine? AAAA Only if approved by the FAA, usually by the issuance of a (STC) Supplemental Type Certificate.
+BBBB
+ Under what conditions should a reciprocating engine be pre-oiled? AAAA Prior to starting a new engine or one that has been preserved for storage. This ensures adequate lubrication on initial startup.
+BBBB
+ Where can the standard aircraft taxi hand signals be found? AAAA In the Aeronautical Information Manual (AIM)
+BBBB
+ The Marking requirements for oil tank filler openings are specified by FAR 23.1157. What markings are required for a piston engine powered airplane? AAAA The word "OIL" and the permissible grades and/or types or a reference to appropriate Airplane Flight Manual for permissible grades and/or types.
+BBBB
+ Describe the important precautions that should be observed when fueling an aircraft. AAAA Be certain to use the correct fuel, properly ground the aircraft and refueling unit and protect the aircraft surfaces from hose or nozzle damage.
+BBBB
+ Part 23.973 of the FAA regulations specifies that certain markings must be paced adjacent to fuel filler openings. What markings are used for reciprocating engine powered airplanes? AAAA The filler openings must be marked with fuel grade and the word "AVGAS".
+BBBB
+ What are some of the possible outcomes of using a lower grade of AVGAS than the specified grade? AAAA An increased chance of engine damage due to detonation, loss of engine power, and an increased probability of overheating.
+BBBB
+ Is it permissible to use avgas in a turbine engine? AAAA Limited operation may be allowed by the manufacturer. Continued use may be reduced efficiency due to lead deposits on the turbine blades.
+BBBB
+ What does the number 100 signify in the 100LL aviation gasoline? AAAA It refers to the lean mixture performance number (or octane rating ) of the fuel.
+BBBB
+ A mixture of aviation gasoline and jet fuel is used in a reciprocating aircraft engine, what are the possible results? AAAA Avgas contaminated by jet fuel must not be used in piston engines - the engines may be damaged or destroyed.
+BBBB
+ Why should an aircraft technician become familiar with standard light signals? AAAA Light signals may be used when taxiing an airplane without a radio or when a radio becomes inoperative on a tower controlled aircraft.
+BBBB
+ When towing an aircraft, should you use the tow vehicle or aircraft brakes to stop the aircraft? AAAA The tow vehicle brakes should be used except in an emergency -
+BBBB
+ What is meant by the term "Hot Start" when starting an engine? AAAA Ignition occurs with an excessively rich mixture , leading to a rapid temperature rise that can exceed the exhaust gas temperature limit.
+BBBB
+ What is the cause of hydraulic lock in large radial engines? AAAA Oil seeps by the piston rings and accumulates in the combustion chamber of lower cylinders. When a piston comes up on its compression stroke, the incompressible liquid seizes it.
+BBBB
+ What procedure should be followed prior to starting a large radial engine to detectable or prevent a hydraulic lock in the cylinders? AAAA Pull the propeller through by hand three or four complete revolutions. Resistance to a prop turning g indicates a possible hydraulic lock in at least one of the cylinders.
+BBBB
+ What safety procedure must be observed when hand-propping a small aircraft engine? AAAA Become throughly trained. Have a qualified person in the cockpit, check the brakes, call "SWITCH OFF" before moving the prop, and make sure you have solid footing. When ready to start, call "CONTACT" and listen for the reply. Swing the prop with the palm of your hand and move acknowledge from the prop arc.
+BBBB
+ If an engine induction fire occurs while starting a reciprocating engine, what procedure should you follow to extinguish the fire? AAAA Continue cranking the engine to start it and sucked the fire into the engine. If the engine doesn't start and the fire continues to burn, discontinue the start attempt and extinguish the fire with a suitable fire extinguisher.
+BBBB
+ Describe the precautions that should be taken to protect life and property while starting and running an aircraft engine. AAAA Study the procedures in the Airplane Flight Manual. Be sure that the propeller or inlet area is clear and check for loosestones, gravel, etc. that could be sucked into the prop orengine. Also ensure that prop or jet blast doesn't blow into hangars or other airplanes and have a fire guard nearby.
+BBBB
+ What is the most generally used knot for tying down small aircraft? AAAA The bowline ( although other anti slip knots may be used ).
+BBBB
+ Name at least three possible hazards that may be encountered during typical ground operations, such as during engine run-up or taxiing? AAAA The possibility of fire, especially during starting. 
+Turning props, rotors, prop or jet blast and inlet areas.
+Other aircraft, vehicles, people and obstacles. 
+Foreign objects such as rocks, gravel, rags, or loose hardware.
+High noise levels might cause hearing damage.
+Hydraulic lock in radial engines. 
+Weathervaning of tail wheel aircraft.
+BBBB
+ List at least five examples of areas in an aircraft that are prone to corrosion? AAAA 1. Battery compartment 
+2. Exhaust trail areas
+3. Bilge areas
+4. Vent areas
+5. Landing gear and wheel wells 
+6 . fuel tanks 
+7. Wig flap recesses 
+8. Around and below galleys and lavatories 
+9. Piano hinges 
+10.. Any area that can trap water
+BBBB
+ Why should aircraft fabrics and plastics be cleaned only with recommended cleaners? AAAA Recommended cleaners cause the least amount of deterioration or damage.
+BBBB
+ For what reason should you avoid cleaning anodized aluminum surfaces with aluminum or metal polish? AAAA The metal polish.
+BBBB
+ What is the purpose of Alodine? AAAA Alodine is a chemical process that deposits a protective film on aluminum alloys. This film improves corrosion resistance and paint adhesion.
+BBBB
+ Describe the effects of using steel brushes or steel wool to remove corrosion from aluminum surfaces? AAAA Steel brushes or steel wool must not be used to clean aluminum because steel particles can become embedded in the aluminum and cause corrosion.
+BBBB
+ Describe the tools that should be used to remove corrosion from anodized aluminum surfaces. AAAA Nylon scrubber pads such as Scotch - Brite, bristle brushes,aluminum wool or aluminum wire brushes.
+BBBB
+ Provide at least four examples of procedures used to prevent corrosion.. AAAA 1. Cleaning
+2. Lubrication 
+3. Treatment 
+4. Sealing
+5. Inspection 
+6. Installing protective covers.
+7. Keep drain holes free and clear
+BBBB
+ What is the best way to protect piano hinges from corrosion? AAAA Keep them clean and properly lubricated.
+BBBB
+ Why are piano - type hinges prime spots for corrosion? AAAA The steel pin and aluminium hinge material are dissimilar metals and the hinge design tends to trap moisture and contaminates.
+BBBB
+ What are the visible signs of fretting corrosion? AAAA The corrosion residue has adark, smoky appearance and often appears around and streaming back from rivet heads.
+BBBB
+ What are two primary factors that may cause development of stress corrosion cracks? AAAA A corrosive environment and sustained tensile stress.
+BBBB
+ What are the visible signs of filliform corrosion? AAAA Blistered paint surfaces or worn or thread - like tracks or patterns under the paint.
+BBBB
+ Name at least one cause of filliform corrosion. AAAA 1. Improper or incomplete curing of a wash primer prior to painting 
+2. Failure to completely wash off acid surface contamination.
+BBBB
+ Name at least three forms of corrosion. AAAA 1. Surface 
+2. Intergranular
+3. Filliform 
+4. Dissimilar metal (or Galvanic)
+5. Oxidation 
+6. Pitting 
+7. Stress
+8. Fretting
+BBBB
+ Give at least three examples of the factors that cause or influence corrosion. AAAA 1. Environmental conditions 
+2. The presence of dissimilar metals 
+3. The type of metal
+4. The presence of electrolytes and/or contaminates 
+5. The condition of protective coating
+BBBB
+ What type of cleaning agents should be used to remove grease, oil or fuel from aircraft tires? AAAA Soap and water.
+BBBB
+ What are the preferred cleaners for plastic surfaces such as windshields? AAAA Mild soap and water or manufacturer approved cleaner.
+BBBB
+ What materials are commonly used as heavy duty cleaners? AAAA Solvents and emulsions
+BBBB
+ What are some of the more common light-duty cleaners? AAAA Soap or detergents and water.
+BBBB
+ Discuss the general precautions that should be observed when washing an airplane. AAAA Avoid or protect areas, which may be damaged or contaminated, such as; Pitot and static ports, hinges, sealed areas, and bearings.
+BBBB
+ Is there any requirement for cleaning an aircraft prior to an annual or 100-hour inspection? AAAA It is not only good, common sense,but it is a legal requirement as specified in FAR Part 43, Appendix D
+BBBB
+ Describe the basic steps for conducting a magnetic particle inspection. AAAA Magnetize the part.
+Coat the surface with ferromagnetic particles
+If a defect of discontinuity is present, the particles align with the discontinuity forming a visible pattern.
+BBBB
+ The penetration of a fillet welds hold be what percentage of the base metal? AAAA 25 - 50 percent
+BBBB
+ What tell tale characteristics are evidence of a cold weld? AAAA A cold weld has rough, irregular edges that are not feathered into the base metal and has variations in penetration amounts.
+BBBB
+ A correctly made butt weld will have what bead width and how much penetration? AAAA The bead width should be 3 to 5 times the thickness of the base metal and there must be 100% penetration.
+BBBB
+ What process occurs during the preparation stage of a dye penetrant inspection when the penetrating liquid is applied, and then removed from a cracked part? AAAA The penetrant enters the crack by capillary action and remains there until made visible by the developer.
+BBBB
+ What are some of the non-destructive testing methods that may be used on aluminum parts? AAAA Visual, dye penetrant, eddy current, ultrasonic testing and radiography.
+BBBB
+ Name some tools that are commonly used to assist in making visual inspections of welds. AAAA A magnifying glass, flashlight, mirror and, possibly a borescope.
+BBBB
+ Describe the steps involved in a dye penetrant inspection. AAAA The surface is cleaned, and then penetrant is applied and allowed and allowed to dwell for a specified time. The penetrant is then removed with an emulsifier or cleaner. Once removed the part is dried and then developer is applied. The results are then inspected and interpreted.
+BBBB
+ Why are quick disconnect fittings used? AAAA To provide a quick means to connect or disconnect a fluid line without a loss of fluid or entrance of air into the system.
+BBBB
+ What happens to the tube when when a flareless fitting is overtightened? AAAA The tube is weakened when the nut drives the cutting edge of the sleeve too deeply into the tube.
+BBBB
+ If you fabricate a replacement for a flexible hose, what percentage of the total length must be added to allow for movement under pressure? AAAA 5 to 8 percent.
+BBBB
+ Describe the operation of quick disconnect couplings. AAAA Each half has a valve that is held open when coupled and is spring-loaded closed when disconnected.
+BBBB
+ What precautions must be observed when deburring the end of a tube after it is cut.? AAAA The wall thickness must not be reduced in size or fractured.
+BBBB
+ How are flexible hose sizes designated? AAAA By inside diameter, measured in 1/16th inch increments.
+BBBB
+ How can you determine if a flexible hose has been correctly or incorrectly installed? AAAA The lay line will be straight if the hose is properly installed. A twisted lay line indicates an incorrect installation.
+BBBB
+ Describe the identification markings commonly found on flexible hoses. AAAA Lay line
+Identification such as Mil Spec number 
+Manufacturers name or symbol 
+Hose size
+Date code
+BBBB
+ What are some important advantages of Teflon tubing? AAAA It has compatability with nearly every liquid, has a broad operating temperature range, low resistance to fluid flow and a very long shelf life.
+BBBB
+ In addition to being securely clamped, what is an additional requirement for installing metal fuel, oil, or hydraulic lines? AAAA The lines must be electrically bonded to the structure.
+BBBB
+ What is the effect of over-tightening a flare type fitting? AAAA The sealing surface may be damaged or the flare cut off.
+BBBB
+ How do you tell a flareless fitting from a flare-type fitting AAAA Flareless fittings don't have a flare cone and there is no space between the threads and the end of the fitting.
+BBBB
+ What are the names of the parts of a flareless tube fitting? AAAA The nut and the ferrule or sleeve.
+BBBB
+ What are the most significant differences between AN and AC fittings? AAAA Sleeve lengths, thread pitch and the shoulder between the threads and the flare cone on AN fittings.
+BBBB
+ How can you determine if a fitting is an AN type rather than AC type? AAAA AN fittings have a shoulder between the flare cone and the end of the threads, AC fittings do not.
+BBBB
+ Describe the two types of flares commonly used on aircraft tubing. AAAA Single flare and double flare.
+BBBB
+ What is the function of the sleeve on a flared - tube fitting? AAAA The nut fits over the sleeve and draws the sleeve and tubing flare tightly against the male fitting to form the seal.
+BBBB
+ Hen installing stainless steel tubing, what types of fittings should be used? AAAA Stainless steel fittings.
+BBBB
+ What are the two types of fluid lines commonly found on aircraft? AAAA Rigid metal lines and flexible hoses.
+BBBB
+ For what reason should a micrometer periodically be calibrated? AAAA F dropped the accuracy may be affected, OR if the spindle is overtightened, the frame may be sprung, OR continually sliding objects between the anvil and the spindle may wear out the surface.
+BBBB
+ What type of precision measuring instruments can be used to measure the outside dimensions of aircraft parts? AAAA Outside micrometers or vernier calipers.
+BBBB
+ What is the most commonly used type of aircraft control cable? AAAA Extra flexible 7 X 19 stainless steel cable.
+BBBB
+ The maintenance procedures do not specify a toque value for a bolt or nut, how can you determine the proper values? AAAA Consult a standard torque table such as found in AC 43.13-1B.
+BBBB
+ For what type of applications are self-locking nuts not allowed? AAAA Self-locking nuts may not be used when either the bolt or the nut is subject to rotation.
+BBBB
+ What is the difference between a close tolerance bolt and general purpose bolt? AAAA Close tolerance bolts are machined to more accurate dimensions.
+BBBB
+ In what way are AN standard bolts identified? AAAA By the code markings on the bolt heads.
+BBBB
+ What is the grip length of the bolt? AAAA The length of the unthreaded portion.
+BBBB
+ How can you keep heat treated aluminum alloy rivets soft enough to install after the quenching process? AAAA If the rivets are stored in a freezer they will remain soft for several days.
+BBBB
+ What is indicated by the markings on the heads of solid shank rivets? AAAA The material that they are made of, and indirectly, their strength.
+BBBB
+ Give one advantage of pre-preg ( pre-impregnated ) materials, other than saving time in the construction or repair of composite components. AAAA 1. Pre-preg fabrics contain the correct amount of matrix. 
+2. The matrix material evenly and completely permeates the reinforcing fibers
+3. The matrix has the resin and hardener in the correct proportions.
+BBBB
+ What are the reasons that alloy steel that s responsive to heat treatment is usually less suitable for welding? AAAA The maybe come brittle and lose its ductility in the area of the weld.
+BBBB
+ What are some of the materials that are commonly used as the reinforcing component in a composite structure? AAAA Fiberglass 
+Aramid ( Kevlar )
+Graphite ( carbon ) fiber 
+Linen and paper
+BBBB
+ Name one of the types of resin commonly used as matrix material for aircraft composite laminates. AAAA Polyester resin or epoxy resin.
+BBBB
+ Explain how thermoplastic or thermosetting resins are commonly used in modern aircraft. AAAA Plexiglass is a thermoplastic resin commonly used for windshields and windows. Thermosetting resins are most often used as the matrix material in composite structures.
+BBBB
+ Describe the primary difference between a thermosetting and thermoplastic resin. AAAA A thermosetting resin doesn't soften when heated and chars or burns rather than melting. Thermoplastic resins become soft and pliable when heated, and harden when cooled.
+BBBB
+ How do you work harden a piece of metal? AAAA By cold working the metal.
+BBBB
+ How does the CG range of a helicopter compare to that of a fixed wing airplane? AAAA Helicopters typically have a much smaller CG range.
+BBBB
+ Installation of several new radios in the nose of an aircraft causes the forward C.G. limit to be exceeded. How can you correct this problem without removing the new equipment? AAAA Ballast may be installed in the tail to move the C.G. aft.
+BBBB
+ What is ballast, and why would you use it in an airplane? AAAA Ballast is weight added to an airplane to bring its C.G. into the allowable or desired range.
+BBBB
+ What is the purpose of an aircraft loading graph? AAAA It is a method for determining how to distribute the load so as to keep the C.G. within allowable limits.
+BBBB
+ Describe the two most common ways of showing the C.G. location and / or C.G. range. AAAA In inches from the datum or percent of Mac.
+BBBB
+ Define the term "Mean Aerodynamic Chord" or MAC. AAAA Mean Aerodynamic Chord is the chord drawn through the center of the wing plan area.
+BBBB
+ Where are leveling instructions found, and describe one method of leveling an aircraft? AAAA Leveling instructions are found in the Type Certificate Data Sheets. 
+An aircraft may be leveled by using a spirit level at specified points, or an aircraft may be leveled by using a plumb bob from a designated point along with a leveling scale or protractor.
+BBBB
+ How should you account for fuel when weighing an aircraft to determine weight and balance? AAAA Either drain the fuel system until only usable fuel remains, or fill the tanks full and subtract the weight of usable fuel.
+BBBB
+ Define the term " residual oil ." AAAA Any oil that remains in the tanks, lines, and engines, after the system has been drained.
+BBBB
+ As you prepare an aircraft for weighing, you determine that there is equipment aboard that is not permanently installed and recorded on the equipment list. What should you do with this equipment? AAAA All equipment not permanently installed in the aircraft or included on the equipment list should be removed from the aircraft.
+BBBB
+ How does the category of aircraft affect it's loaded weight? AAAA Aircraft certificated in more than one category, such as Normal or Aerobatic, may have two different maximum gross weights and different useful loads.
+Reference : (TCDS)
+BBBB
+ What should be done to obtain a negative ( minus ) movement forward of the datum? AAAA Add weight.
+BBBB
+ What should be done to obtain a positive ( plus ) movement forward of the datum? AAAA Remove weight.
+BBBB
+ What should be done to obtain a negative ( minus ) movement aft of the datum? AAAA Remove weight
+BBBB
+ What should be done to obtain a positive ( plus ) movement aft of the datum? AAAA Add weight
+BBBB
+ What are two ways to determine the arm of an item of equipment? AAAA Measure the distance between the item and the datum or use data supplied by the manufacturer.
+BBBB
+ How do you determine the moment of an item of equipment? AAAA The weight of the item is multiplied by its arm., which is the distance between the item and the datum.
+BBBB
+ What is the datum of an aircraft and what is it's function? AAAA The datum is an imaginary vertical plane at right angles to the longitudinal axis of the airplane. It is the reference point from which all horizontal measurements are taken.
+BBBB
+ Why is control of the weight and balance of an aircraft important? AAAA To provide maximum safety.
+BBBB
+ If a piece of equipment such as a radio is added to an aircraft, how can you determine the effect on weight and balance without re-weighing the aircraft? AAAA If the weight and balance records are up to date, a new weight and C.G. location can be determined by computation.
+BBBB
+ Define "tare weight" and describe how it is handled when weighing an aircraft. AAAA "Tare weight " is the weight of anything on the scales that is not part of the aircraft. It must be subtracted from the scale weight reading to determine the net weight of the airplane.
+BBBB
+ If all the records of an aircraft are missing, how would you determine the empty weight and empty weight C.G.? AAAA The aircraft would have to be weighed, and new weight and balance records would have to be prepared.
+BBBB
+ If an aircraft is loaded so that the aft C.G. limit is exceeded, what undesirable flight characteristic is likely to result? AAAA The aircraft will be tail-heavy and maybe unable to recover from a stall or spin.
+BBBB
+ How many views are required to represent the important details of most aircraft parts? AAAA One, two, or three are usually enough.
+BBBB
+ What kinds of parts can be by one - view drawings? AAAA Parts with uniform thickness such as shims., plates and gaskets.
+BBBB
+ What is the name for a part of a drawing used to bring out important details ad how is it drawn? AAAA A detailed view, which is usually drawn to a larger scale than the main drawing.
+BBBB
+ What is the purpose of schematic diagrams? AAAA They are primarily used for troubleshooting systems.
+BBBB
+ Describe an orthographic projection. AAAA It is a way of drawing an object using using different views at right angles to each other such as a top, front and side view.
+BBBB
+ Why do manufacturers use symbols on aircraft drawings? AAAA Symbols are a form of shorthand and are used to convey the characteristics of a component with a minimum of drawing.
+BBBB
+ Describe the appearance of lines used to show hidden views, alternate positions and the middle of symmetrical objects, and give their proper name. AAAA Hidden views are shown with hidden lines, which are short evenly spaced dashes.
+Alternate positions are shown with phantom lines made up of light alternating long dashes and two short dashes.
+Center lines consisting of alternating long and short dashes, show the middle of symmetrical objects.
+BBBB
+ How can you determine if a drawing has been changed? AAAA A record of the changes is listed either in a revision block or in ruled columns, which may be in a corner of the drawing or next to the title block.
+BBBB
+ How are dimensions shown on aircraft drawings, and what is their purpose? AAAA Dimension lines are usually solid and generally broken attention midpoint for insertion of the measurement. They provide a means to accurately represent the size of an object.
+BBBB
+ What is the difference between an "allowance" and a "tolerance "? AAAA An allowance is the nominal dimension and the maximum and minimum permissible sizes. The tolerance is the difference between the extreme permissible dimensions, which may be found by adding the plus and minus allowances.
+BBBB
+ What is meant by "clearance" when used on aircraft drawings? AAAA Allowable dimension between two parts.
+BBBB
+ What kinds of information about an aircraft drawing can be found in the title block? AAAA Part or assembly name
+Drawing size, scale
+Date
+Company name
+Name or initials of the people responsible for creating or approving the drawing.
+BBBB
+ What information is contained in a "bill of materials"? AAAA A list of the materials and parts needed to fabricate or assemble the component or system shown in the drawing.
+BBBB
+ One kilowatt is equal to how many watts? AAAA 1000 watts.
+BBBB
+ What law describes the most fundamental or basic relationships in an electrical circuit? AAAA Ohm's law
+BBBB
+ What are the three elements of ohm's law AAAA Voltage, current and resistance.
+BBBB
+ How would you write ohm's law as an equation? AAAA E = I X R, 
+R = E ÷ I
+I = E ÷ R
+BBBB
+ If the resistance in a DC circuit remains the same but the voltage doubles, what happens to the amount of current flowing in the circuit? AAAA It also doubles
+BBBB
+ In DC circuits, what unit measures power? AAAA Watts
+BBBB
+ What three elements are required to form an electrical circuit? AAAA A source of electrical energy. 
+A load or resistance to use the electricity. 
+Wires or conductors to connect the source to the load.
+BBBB
+ DC circuits can take one of three forms or types. What are they? AAAA Series
+Parallel 
+Complex ( or series -parallel )
+BBBB
+ A 24 volt lead acid battery has how many cells? AAAA Twelve
+BBBB
+ A fully charged lead-acid battery has a specific gravity that varies between what two values? AAAA 1.275 and 1.300
+BBBB
+ You must apply a correction to specific gravity reading of the electrolyte of a lead-acid battery when the temperature is outside what two values? AAAA Whenever the temperature is less than 70°F or more than 90°F.
+BBBB
+ What is the reason for having separate facilities for storing and servicing nickel-cadmium and lead-acid batteries? AAAA The electrolyte in the two types of batteries is chemically opposite and the fumes from one type can contaminate the electrolyte of the other type.
+BBBB
+ The state of charge of a nickel-cadmium battery cannot be determined by measuring the specific gravity of the electrolyte for what reason? AAAA There is no significant change in the electrolyte as the battery is charged or discharged.
+BBBB
+ What is the principal advantage of AC current over DC current? AAAA Power can be transported overlong distances more efficiently and with smaller wires because the voltage can be easily increased or decreased by a transformer.
+BBBB
+ What are three causes of opposition to current flow in an AC circuit? AAAA Resistance 
+Inductive resistance 
+Capacitive resistance
+BBBB
+ Define Inductance AAAA An induced voltage that is opposite in the direction to the applied voltage.
+BBBB
+ What component creates capacitance in AC circuit AAAA A capacitor
+BBBB
+ How does a capacitor store electricity? AAAA The energy is stored in the form of an electrostatic charge or field that exists between two conductors separated by an insulator
+BBBB
+ What property of an AC circuit is defined by the term "impedance"? AAAA The total opposition to current flow.
+BBBB
+ What are to reasons that might cause a nickel-cadmium battery to fail to deliver it's rated capacity? AAAA Faulty cells or cell imbalance.
+BBBB
+ What electrical values are measured by a typical multimeter? AAAA Voltage 
+Current 
+Resistance
+BBBB
+ Define matter AAAA Any object that occupies space and has mass
+BBBB
+ Matter may exist in what three states? AAAA Solid 
+Liquid 
+Gas
+BBBB
+ Define kenetic energy. AAAA The energy of motion .
+BBBB
+ Work is the product of what two factors? AAAA Force and the distance moved.
+BBBB
+ What are the parts of a lever? AAAA Rigid bar and a pivot point called the fulcrum.
+BBBB
+ A wheelbarrow is an example of what class of lever? AAAA Second-class lever
+BBBB
+ Are all three states of matter affected by thermal expansion and if so, which state is affected the most? AAAA All three states are affected, with gasses being affected the most.
+BBBB
+ What is a British Thermal Unit? AAAA The amount of heat energy required to change the temperature of 1 pound of water 1 degree Fahrenheit
+BBBB
+ Name three methods of heat transfer? AAAA Conduction 
+Convection 
+Radiation
+BBBB
+ What term defines the temperature at which all molecular motion ceases? AAAA Absolute zero
+BBBB
+ Can liquids be compressed? AAAA No
+Liquids are generally considered incompressible.
+BBBB
+ What are the customary units used to express hydraulic or pneumatic pressure in the United States? AAAA PSI
+Pounds per Square Inch
+BBBB
+ Describe how pressure is transmitted when force is applied to a confined liquid. AAAA Pressure is transmitted equally in all directions.
+BBBB
+ What formula expresses the relationship between force, pressure and area? AAAA FORCE equals AREA times PRESSURE.
+BBBB
+ What is the approximate speed of sound at sea level on a standard day? AAAA 661 knots or 340 meters per second.
+BBBB
+ What is the atmospheric pressure at sea level on a standard day? AAAA 29.92 inches of mercury 
+OR
+1013.2 millibars
+BBBB
+ On a standard day at sea level, what is the value for temperature? AAAA 59°F
+or
+15°C
+BBBB
+ What are the factors that determine density altitude? AAAA Temperature and atmospheric pressure.
+BBBB
+ What is the term used to describe the ratio between the amount of moisture actually present in the atmosphere as compared to the amount of air could hold if it were completely saturated? AAAA Relative humidity
+BBBB
+ What are the four principal forces acting on an airplane in flight? AAAA Lift 
+Drag 
+Thrust 
+Gravity
+BBBB
+ What is the term that describes the angle between the relative wind and the chord line of an airfoil? AAAA Angle of Attack
+BBBB
+ What are the factors that cause an airplane wing to stall? AAAA A stall is caused when the angle of attack exceeds a critical value and the airflow separates from the upper surface and becomes turbulent.
+BBBB
+ What are the principal effects that result from lowering the flaps in flight? AAAA Lift increases, drag increases and stall speed decreases.
+BBBB
+ What is the function of a wing mounted vortex generator? AAAA Vortex generators delay or keep the airflow from separating from the upper surface of a wing during high speed flight.
+BBBB
+ How does blade-flapping help to compensate for dissymmetry of lift in helicopter main rotor systems? AAAA Flapping increases the angle of attack and lift on the retreating blade and decreases the angle of attack and lift on the advancing blade.
+BBBB
+ How does airflow through the main rotor of a helicopter change during the transition from normal flight to autorotation? AAAA During normal flight the air moves downward and during autorotation the air moves upward.
+BBBB
+ What is friction? AAAA The opposition to relative motion between two objects in contact with each other.
+BBBB
+ Describe the result of adding a large positive number, and a smaller negative number. AAAA The result is a smaller positive number, and is the same as ignoring the signs and subtracting the smaller number from the larger.
+BBBB
+ How do you convert a fraction to a decimal? AAAA Divide the top number (numerator)by the bottom number (denominator)
+BBBB
+ What is the key step that must be performed in order to add or subtract unlike fractions? AAAA You must find the lowest (least) common denominator.
+BBBB
+ How do you divide one fraction by another? AAAA You invert the divisor and multiply the numerators together and the denominators together.
+BBBB
+ How can you convert a fraction into a percent? AAAA Convert it to a decimal and move the decimal point 2 places to the right and add the percent sign.
+BBBB
+ How can you convert a decimal into a percent? AAAA Multiply the decimal by 100 and add the percent sign. 
+or
+Move the decimal point two places to the right and add the percent sign.
+BBBB
+ How do you change a decimal into the nearest equivalent fraction? AAAA Multiply the decimal by the desired denominator. The result becomes the numerator in the fraction.
+BBBB
+ What are two different ways that a ratio can be expressed? AAAA As a fraction 
+or
+By placing a colon (:) between two numbers. 
+or
+By using the word "to" between the two numbers
+BBBB
+ What is a proportion? AAAA A statement of equality between two or more ratios.
+BBBB
+ What is meant by the root of a number? AAAA A root is two or more equal smaller numbers that, when multiplied together, equal the specific number.
+BBBB
+ How do you find the square root of a number? Give an example. AAAA Multiply the number by itself. 
+Example; 4×4=16, 7×7=49
+BBBB
+ What is a common method of making computations involving very large or very small numbers more manageable? AAAA Convert the numbers into scientific notation by using powers of 10.
+BBBB
+ How is 100,000 expressed as a power of 10? AAAA 10 to the 5th power
+BBBB
+ What formula is used to find the area of a rectangle and or a triangle? AAAA For a rectangle, area equals length times width. A = L X W
+For a triangle, one half base times height.
+1/2 (B X H)
+BBBB
+ Define Pi AAAA Pi is a constant that expresses the relationship between the circumference of a circle and it's diameter and is approximately equal to 3.1416
+BBBB
+ Describe a trapezoid AAAA A trapezoid is a closed, four-sided figure having two parallel sides and two sides that are not parallel.
+BBBB
+ What is the the formula for computing the area of a circle? AAAA Area = Pi x r^2
+BBBB
