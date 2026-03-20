@@ -1,0 +1,276 @@
+What is the purpose of dynamic dampers on crankshafts? AAAA They reduce engine vibration.
+What types of bearings are generally found in reciprocating engines? AAAA Plain, ball and roller bearings.
+Are the connecting rods used in each cylinder of a radial engine the same? Explain. AAAA No. Radial engines use master and articulating rod assemblies.
+Name the different types of piston rings. AAAA Oil control, compression, and oil scraper.
+Where should piston ring gaps be installed relative to each other, and why?- AAAA Compression ring gaps should be staggered so that they do not align. This prevents excessive blow-by.
+What could result from incorrectly installed piston rings? AAAA Excessive oil consumption.
+What purpose do oil control rings serve? AAAA They regulate the thickness of the oil film on the cylinder walls.
+What is used to help prevent valve surge or floating in an aircraft engine? AAAA Two or more springs are used on each valve.
+On engines equipped with hydraulic valve lifters, what should the running valve clearance be? AAAA Zero.
+What is the purpose of valve overlap? AAAA It allows better volumetric efficiency and lowers cylinder operating temperatures
+What indications are given in the event of a leaking or open primer while the engine is running? AAAA The engine will not idle properly.
+A cold cylinder is found when troubleshooting a running engine. What does this indicate? AAAA No combustion in that cylinder.
+When pulling a propeller through, a hissing sound is heard, indicating valve blow-by. What procedure should be performed next? AAAA A compression check should be performed to identify the faulty cylinder.
+What is the purpose of performing a compression test? AAAA To determine if the valves, pistons, and rings are sealing properly
+When an engine is overhauled, how is the total time affected? When an engine is rebuilt, how is its operating history affected? AAAA The total time on the engine must be continued and the time since major overhaul is entered into the engine log. It the manufacturer rebuilds the engine, it is granted a zero-time status and is considered to have no previous operating history.
+What inspections should be performed after a propeller strike without sudden stoppage? AAAA 1.Inspect engine mounts, the crankcase, and the nose section for damage. 2.Inspect the oil and oil filters/screens for metal particles. 3.Inspect the crankshaft or driveshaft for cracks and misalignment.
+Name some of the precautions that should be performed prior to engine removal. AAAA Disconnect the battery, turn off the fuel valves, chock the wheels, and if necessary, install a tail stand.
+When inspecting a piston, where are cracks most likely to be found? AAAA In those areas that are highly stressed; usually the base of the piston bosses, inside at the junction of the bore and the walls, and the ring lands.
+What does it mean if an engine part is within "serviceable limits"? AAAA It means that the part is within the manufacturer's limits and can be used in an engine (does not require replacement).
+What tools or instruments are used to inspect a cylinder barrel for out-of-roundness? AAAA A dial indicator or an inside micrometer is usually used to measure the top of the cylinder and at the skirt. A telescopic gauge and micrometer can also be used. Two readings should be taken 90# to each other.
+How can a loose stud in an engine crankcase be repaired? AAAA Remove the loose stud and inspect the hole for size and thread condition. It may be necessary to use an oversize stud or Heli-Coil.
+What publication is used to check an engine for normal operation? AAAA Manufacturer's maintenance manual.
+A weak cylinder is found during a compression check. What must be inspected? AAAA The inside of the cylinder.
+What purpose does an oil analysis serve? AAAA Metal particles in the oil show normal and abnormal wear of the engine. This helps in evaluating the engine's internal condition.
+What inspections should be performed on an engine that has been in storage? AAAA Perform an inspection to determine if there is any corrosion damage.
+Where would a carburetor air temperature bulb be located? AAAA In the ram air intake duct.
+What is the fuel pressure range on float-type carburetors? AAAA 3 to 5 psi.
+Where is the fuel flow indicating system generally connected within a carbureted reciprocating engine? AAAA Between the engine fuel pump and the indicator.
+Name the basic components of a fuel flow system. AAAA The transmitter and the indicator.
+What unit of measure is generally used to indicate fuel flow? AAAA Pounds or gallons per hour.
+Why is fuel flow monitored? AAAA To determine fuel consumption and engine performance.
+What does the manifold gauge indicate and how is it calibrated? AAAA It measures the absolute pressure in the engine manifold and is calibrated in inches of mercury.
+What directly controls manifold pressure? AAAA Throttle opening and engine rpm.
+During engine operation, where should the propeller control be set when checking the manifold pressure? AAAA Low pitch, high r.p.m.
+Is the aircraft electrical system required to power a cylinder head temperature gauge? AAAA No. A thermocouple is used as the electrical source.
+What are the possible indications of an oil pressure transmitter or indicator malfunction? AAAA A severe or sudden drop in oil pressure while the oil temperature remains normal and the oil supply remains full.
+What does a tachometer indicate on a reciprocating engine? AAAA Engine r.p.m.
+Where should the thermocouple be installed on a reciprocating engine using a single probe cylinder head temperature system? AAAA On the hottest cylinder
+Explain the main difference and advantage a turbofan over turbojet engines. AAAA A turbofan engine uses a fan to bypass some air around the engine core and to provide thrust. The advantage is that this provides additional thrust without increasing fuel flow.
+Name the major components in a gas turbine engine. AAAA Air inlet, compressor section, combustion section, turbine section, exhaust section, gearbox and accessory section.
+What determines the amount of airflow through a turbine engine? AAAA The forward speed of the aircraft, compressor speed, and air density.
+Name the two types of compressors commonly used in turbine engines. AAAA Axial and centrifugal flow compressors.
+Name two different methods for attaching turbine engine rotor blades to the rotor disks. AAAA Dovetail-type root Bulb-type root Fir tree-type root.
+What is a split compressor system? AAAA Also called dual or twin spool compressors, these are connected to the turbine section with two rotor shafts, one inside the other.
+What are the different types of combustion chambers used in turbine engines? AAAA Can, annular, can-annular, and reverse flow annular.
+What prevents the combustion chambers from burning? AAAA Cooling air along the inside of the liner.
+What is the purpose of the interconnecting tubes attached between can-type combustion chambers? AAAA For flame propagation during start.
+What functions do axial flow turbine nozzles perform? AAAA They direct the mass airflow to drive the turbine rotor at a specific angle.
+How is thermal stress relieved on a turbine disc? AAAA By directing bleed air onto the face of the disk, or by grooves being cut in the disk.
+What are carbon seals used for in turbine engines? AAAA They are used as oil seals for the rotor shaft bearings
+What is shaft horsepower? AAAA It is an indication of the torque developed by a turboprop or turboshaft engine.
+What is the purpose of an APU? AAAA They provide ground electrical and pneumatic power for aircraft systems when the engines are not running. Pneumatic power can be used for engine starting, ground heating or air conditioning, and anti-icing. Many APUs may also be used as an emergency source of in flight electrical power.
+Name the main components of a typical APU. AAAA A small power turbine for power and bleed air, and an electrical generator.
+When is the greatest demand placed on an APU? AAAA When supplying bleed air.
+How is an APU generally started? AAAA With its own electrical starter and battery power.
+Where does the APU get its fuel supply? AAAA From one of the aircraft's main fuel tanks.
+At what speed does a gas turbine APU operate and how is this speed maintained? AAAA At or near its rated speed regardless of electrical or pneumatic loads imposed. The APU fuel control automatically adjusts the fuel flow to maintain the rated speed.
+What is used to prevent a heavily loaded APU from exceeding its maximum EGT? AAAA A load control valve modulates the pneumatic load to maintain EGTs within limits.
+How is an APU shut down and why is this procedure used? AAAA After the APU is unloaded by closing the bleed air valve, it is run for a specified amount of time to allow the EGT to cool and stabilize. This cool down period is typically three minutes. If a heavily loaded APU is abruptly shut down without any cooling down period, damage could occur as a result of thermal shock.
+What powers the variable inlet guide vanes used on some APUs to regulate compressor intake airflow? AAAA Fuel pressure.
+What is fan blade shingling? AAAA It is the overlapping of the midspan shrouds of the fan blade.
+When a turbofan or turbojet engine is shut down, what should a mechanic listen for during coastdown? AAAA Any rubbing sound or other unusual noises from the engine.
+Why are compressor washes performed and what methods are commonly used? AAAA To remove any contaminants from the compressor section and improve engine performance. The fluid wash and abrasive grit wash are commonly used.
+How can you tell if a turbofan or turbojet engine is out of trim? AAAA There will be a high exhaust gas temperature at the target engine pressure ratio for takeoff power.
+Name the different types of compressor blade damage that may be found during inspection. AAAA Dents, cracks, galling, pitting, scratches, burrs, burns, gouges.
+What kind of markers can be used to mark the parts in hot and cold sections during repair? AAAA Layout dye, felt tip marker, chalk.
+How does relative humidity affect turbine engines? AAAA Negligible effect.
+What criteria determines replacement of life limited turbine engine components? AAAA Cycles, hours and/or calendar time.
+If turbine blades are removed from a turbine disc, why should they be re-installed in the same location? AAAA To maintain the balance of the turbine wheel.
+How are gas turbine engine tachometers calibrated? AAAA They are calibrated in percent rpm.
+On a turbine engine, what is the engine pressure ratio and what does it indicate? AAAA It is the ratio between the total inlet pressure and total turbine exhaust pressure and is used to indicate the thrust developed by the engine.
+On a turbine engine, what does exhaust gas temperature (EGT) indicate and how is it obtained? AAAA EGT is the average temperature of the turbine discharge gasses and is obtained by thermocouples placed near the turbine exit.
+Can the EGT system on a turbine engine be checked without running the engine? AAAA Yes, by checking the resistance of the thermocouples and circuits.
+Name the three components on the induction system of a reciprocating engine. AAAA The air scoop, carburetor or fuel control, and the intake manifold.
+What could happen if the induction system becomes obstructed? AAAA The engine may not be able to produce its rated power or it may not run at all. This may also be an indication of a dirty air inlet filter.
+How does induction icing affect engine performance? AAAA It causes a reduction in power and possible erratic operation.
+How is induction icing categorized? AAAA As impact ice, fuel evaporation ice, and throttle ice.
+What is the common method used to prevent induction system ice in a reciprocating engine? AAAA Raise the temperature of induction air with a preheater.
+What causes fuel evaporation ice? AAAA Fuel evaporation ice is formed because of the decrease in air temperature resulting from evaporation of the fuel after it is introduced into the air stream.
+Is carburetor throttle ice more likely to occur at a higher or lower power setting? Why? AAAA At a lower power setting because the throttle is partly closed, offering a larger surface area for ice accumulation.
+What may be the indication of leaking intake pipes? AAAA The engine runs rough at low r.p.m.
+What happens to engine power when the carburetor heat is applied? AAAA There is a noticeable drop in power.
+What could happen if carburetor heat is applied at high engine power settings? AAAA Detonation.
+What are two types of supercharged induction systems? AAAA Internally driven and externally driven.
+How and at what point does an internally driven supercharger boost air pressure? AAAA An (engine-driven) impeller compresses the fuel/air mixture after it leaves the carburetor.
+What is used to power a turbocharger? AAAA Engine exhaust gas directed onto the turbocharger turbine.
+What could result if the waste gate on a turbocharger system does not close fully? AAAA The engine may not be able to produce its rated power at certain altitudes, and the aircraft may not be capable of reaching critical altitude.
+What function does a turbocharger waste gate perform? AAAA It controls the amount of exhaust gas either into or around the turbocharger, thus controlling the boot pressure of the turbocharger.
+What could cause a turbocharged engine to surge? AAAA There could be a waste gate or controller malfunction
+What are the most common ways to control a waste gate? AAAA Either mechanically with linkages to the throttle or a separate control, or by an actuator that is driven by oil pressure.
+In a pressurized reciprocating aircraft, what component in the turbocharger system is used to limit the amount of turbocharger airflow used for cabin pressurization? AAAA The sonic venturi.
+What is the function of a divergent-shaped jet engine inlet during subsonic flight? AAAA It causes the air velocity to decrease with a subsequent increase in air pressure.
+Where are bellmouth inlet ducts typically found? AAAA On helicopter engines.
+How do venturi-type particle separators, found on many turbine powered helicopters, function? AAAA A venturi is used to accelerate the flow of incoming air and debris through a curved intake. The debris gains too much inertia to allow it to follow the curved intake towards the engine, and is channeled away from the compressor.
+What are the most common methods used for anti-icing of turbine engine inlet ducts? AAAA Engine bleed air and electric heating elements.
+What is the purpose of the exhaust system? AAAA To remove high temperature noxious gases.
+Name two types of reciprocating engine exhaust systems. AAAA The short stack and the collector system.
+What drawback in using collector-type exhaust systems is more than offset when used on turbocharged engines? AAAA The loss of horsepower due to exhaust system back pressure.
+What could result if the internal baffles or diffusers in an exhaust system fail? AAAA The flow of the exhaust gasses could be restricted, resulting in a loss of engine power.
+What type of exhaust system is used on turbocharged engines? AAAA The collector system.
+What kind of material is normally used to make the muffler shrouds found in the exhaust system? AAAA Stainless steel.
+How do you inspect the internal baffles and diffusers of an exhaust system?- AAAA By disassembling the exhaust system as necessary and visually inspecting the components.
+Why is an exhaust system failure considered a severe hazard? AAAA It can result in carbon monoxide poisoning, loss of engine power, or fire.
+What could happen if lead, zinc, or galvanized marks are made on an exhaust system? AAAA They cause a change in molecular structure, which could result in cracks when heated.
+What happens if the heat exchanger leaks exhaust gasses into the induction system? AAAA There is a loss of engine power.
+What is an indication of an exhaust gas leak? AAAA A flat gray or sooty black deposit in the area of the leak.
+Where are the most common places to find cracks in an exhaust system? AAAA At welded or clamped areas and at the flanges.
+What is a common cause of turbocharger waste gate sticking? AAAA Coke deposits or carbon buildup.
+Why are turbocharged exhaust system leaks very damaging at high altitudes? AAAA Pressure differential will cause the leak to escape with torch-like intensity.
+What are exhaust system coke deposits? AAAA Excessive carbon buildup.
+What is the result of changing the exhaust nozzle area of a turbine engine?- AAAA The engine's performance and exhaust gas temperature change.
+Name the components of a typical turbine exhaust nozzle. AAAA The tail cone, exhaust ducts and support struts.
+What is the purpose of thrust reversers? AAAA They help decelerate an aircraft after landing.
+How does a noise suppressor found on older turbojet engines work? AAAA It converts low frequency sound, which is audible over great distance, into high frequency sound, thus reducing the sound footprint.
+What are the two most commonly used types of thrust reversers? AAAA The clamshell (or mechanically blocked) and the Cascade (or aerodynamically blocked).
+How much thrust do the thrust reversers produce compared to the engine's full forward thrust? AAAA Substantially less.
+What are the hazards of operating some thrust reversers at low ground speeds? AAAA Ingestion of foreign objects stirred up by the exhaust gasses and re-ingestion of hot exhaust gasses.
+What are some of the sources used to heat the fuel in a turbine engine fuel system? AAAA Bleed air and engine lubricating oil.
+What are the most common types of fuel metering systems used on small reciprocating engines? AAAA Float-type carburetors, pressure-injection carburetors and direct fuel injection systems.
+What function does the mixture control perform? AAAA Controls the fuel/air mixture.
+What generally causes spark plug fouling? AAAA Operating the engine with an excessively rich mixture at idle.
+What is the purpose of an accelerating system? AAAA It provides an immediate but brief increase in fuel flow in the venturi to enrich the mixture.
+What is a carburetor economizer system? AAAA It is a power enrichment system that provides a richer mixture at high power settings, where the excess fuel aids in engine cooling. This system functions at throttle settings above cruise power settings.
+When the mixture is placed in the idle-cutoff position, a slight rise rpm is noted prior to the engine decelerating. What does this indicate? AAAA The idle mixture is set correctly.
+Why should engine rpm be accelerated periodically when making carburetor adjustments? AAAA To clear the engine.
+What maintains the fuel pressure in a pressure-injection carburetor? AAAA An engine-driven fuel pump.
+What happens if the manual mixture control of a pressure injection carburetor is moved to the idle cutoff position? AAAA The engine stops.
+How does an automatic mixture control (AMC) function? AAAA A sealed brass bellows connected to the fuel metering system, expands and contracts with changes in pressure and temperature, adjusting the mixture accordingly.
+What are some of the advantages of fuel injection systems over carburetor systems? AAAA Less danger of induction icing, better acceleration, better fuel distribution, better fuel economy, reduced overheating of individual cylinders.
+What purpose do turbine engine fuel control units serve? AAAA They automatically meter fuel to the engine.
+What are the two basic types of turbine engine fuel control units? AAAA Hydromechanical and electronic.
+What are the engine variables detected by the fuel control unit? AAAA Power lever position, engine r.p.m., compressor inlet temperature, compressor inlet pressure, compressor discharge pressure, burner pressure.
+What are the two major components of a supervisory electronics engine control? AAAA The electronic control unit (computer), and the hydromechanical fuel control.
+What are some of the advantages of a full-authority digital engine control (FADEC) over a hydromechanical fuel control? AAAA Better fuel economy, improved starts, requires no engine trimming, provides engine limit protection, provides constant idle speeds regardless of atmospheric conditions or bleed air requirements, fully modulates the active clearance control, and allows more repeatable engine transients.
+What do turbine engine fuel spray nozzles do? AAAA The inject fuel into the combustion area.
+What are the different engine indications used for trimming a turbine engine? AAAA Either EPR or r.p.m. is used depending on the particular engine
+What maintenance adjustments are normally allowed on an installed hydromechanical fuel control? AAAA Specific gravity for fuel, idle r.p.m., and a maximum r.p.m. (or maximum EPR).
+What type of pump can vary the amount of fuel discharged regardless of speed? AAAA A variable displacement pump.
+What is used to keep water, sediment, and foreign matter out of the carburetor? AAAA The main fuel strainer.
+What is the purpose of a pressure relief valve in a constant displacement pump? AAAA It returns excess fuel that is not required by the engine to the inlet side of the pump.
+What type of engine-driven fuel pump is widely used other than gear or piston pumps? AAAA A rotary vane type.
+What function do fuel boost pumps perform? AAAA They supply pressurized fuel to the fuel pump, which helps prevent vapor lock and cavitation.
+What is a commonly used type of fuel boost pump? AAAA The centrifugal type.
+What causes vapor lock and why is it of concern? AAAA Vapor lock is caused by insufficient fuel pressure, high fuel temperatures and excessive fuel turbulence, which may completely block any fuel flow resulting in engine failure.
+What function does the engine-driven pump on a turbine engine perform?- AAAA It provides a continuous supply of fuel at the proper pressure while the engine is running.
+Name the two categories of turbine engine pumps. AAAA Constant and variable displacement.
+What category is a gear-type pump classified in? AAAA Constant displacement.
+When performing an external inspection of an engine-driven fuel pump, what should you look for? AAAA Leaks and security of mounting.
+What is the purpose of a shear section of the driveshaft in a dual element constant displacement pump? AAAA If one element seizes, a portion of the driveshaft seizes, allowing the other element to continue to operate.
+Where in a turbine engine fuel system is ice formation likely to occur and how is it prevented? AAAA The fuel filter is most susceptible to ice formation, so a fuel heater is used that consists of a heat exchanger using either engine oil or bleed air to warm the fuel.
+What is the purpose of a bypass valve in an engine fuel system micron filter? AAAA It is a safety feature that allows fuel to flow to the engine if the filter becomes blocked.
+What is the purpose of a duplex fuel nozzle? AAAA A duplex fuel nozzle discharges two different spray patterns. The spray pattern is wider during start up and acceleration and narrows when engine speed increases above idle.
+What are the functions of the pressurizing and dump portions of a pressurizing and dump valve? AAAA The pressurizing portion provides primary and secondary fuel flow to dual-line duplex fuel nozzles, and the dump portion allows fuel to drain from the manifolds after engine shutdown.
+What purpose do fuel selector valves serve? AAAA They allow tank and engine selection, and provide a means for shutting off fuel flow.
+How can the remaining service life of starter-generator brushes be determined? AAAA By visually inspecting the amount of wear groove remaining on the brushes.
+What components of the starter-generator require periodic inspection? AAAA Both commutator and brushes should be inspected for wear beyond operational limits.
+Between field and armature windings in starter-generators, which ordinarily receive current for operation in the start mode? AAAA Generally, both field and armature receive current for operation in the start mode.
+What are possible sources of low pressure compressed air used for starting jet transport aircraft equipped with air turbine starters? AAAA A ground power unit, (GPU), an on-board auxiliary power unit (APU), compressed bleed air form an already running engine.
+When should ignition ideally occur? AAAA A specific number of degrees (as determined by the manufacturer) before the piston reaches top dead center on the compression stroke.
+Why are dual magnetos used in the engine ignition system? AAAA To improve combustion efficiency, and provide redundancy for safety.
+Why is magneto timing so important? AAAA For an engine to run properly, the spark plug in a cylinder has to fire at a specific time. To produce the required energy for the spark at the required time, the magneto must be in the E-gap position, the breaker points must start to open, and the distributor must be electrically aligned with the particular cylinder. If any of these requirements are not correctly adjusted, the engine will run rough or may not run at all. When preparing a magneto for installation, first the internal timing must be correctly adjusted, then the magneto-to-engine timing is adjusted.
+What function does a magneto perform? AAAA It produces a high voltage that forces a spark to arc across a spark plug gap.
+Name the components of a high tension magneto system. AAAA A permanent multipole rotating magnet, soft iron core, and pole shoes.
+Name the three main circuits of a high tension magneto system. AAAA Magnetic, primary and secondary.
+What is an E-gap angle? AAAA It is a point a few degrees beyond the neutral position of a rotating magnet where maximum magnetic field stress exists.
+What reduces arcing in the points and also aids the collapsing of the magnetic field in a magneto? AAAA A capacitor.
+How does a magneto produce the high voltage required to fire a spark plug? AAAA In the rotation cycle, when the magnetic rotor is in the E-gap position, the primary points open, which interrupts the current flow in the primary circuit causing a high rate of flux change in the core, and inducing a pulse of high voltage in the secondary coil.
+What is the P-lead and how does it function? AAAA The P-lead connects the ignition switch to the primary circuit of the magneto. When the ignition switch is turned off, the P-leads on both magnetos are grounded. When the ignition switch is turned to the "LEFT" position, the right magneto is grounded, so that only the left magneto operates, and visa versa.
+What is a magneto timing light used for, and what does it indicate? AAAA It is used for both internal magneto timing and magneto-to-engine timing, and indicates the exact instant the magneto points open.
+Why are turbine engine igniters generally not susceptible to carbon fouling? AAAA Because the high energy sparks they produce clean off any deposits on the firing end.
+What is the function of a duty cycle in relation to a turbine engine ignition system? AAAA A duty cycle allows the operation of the ignition system for a given amount of time, and is then followed by a minimum specified cooling down period.
+What are the three main components of a turbine engine ignition system?- AAAA Ignition exciters, high tension leads, igniters.
+When the engine is operating, what does an ammeter/loadmeter indicate when connected to: 1.Battery positive lead? 2.Generator output lead? AAAA When connected to the battery positive lead, the ammeter indicates whether the battery is charging or discharging. When connected to the generator output lead, it indicates the current produced by the generator or electrical system load.
+What is done to ensure that each generator shares the load in a multiple generator system? AAAA The generators are paralleled.
+Where would you find generator rating and performance data? AAAA On the data plate attached to the generator.
+How is the voltage of a DC generator controlled? AAAA By varying the field current strength
+What is the most common type of alternator used in most aircraft AC systems? AAAA The three phase alternator.
+How does the voltage regulator control the voltage of an alternator? AAAA By regulating the voltage output of the DC exciter.
+What does the speed of rotation and number of poles of an alternator determine? AAAA The frequency of the alternator output.
+What are some of the methods used to maintain 400 Hertz alternator output frequency on large turbojet or turbofan engines? AAAA Constant speed drives, integrated drive generators, and variable speed constant frequency (VSCF) power systems.
+Name the major parts of a DC motor. AAAA The armature, field, brushes, and frame assembly.
+Name the components of a direct cranking electric starter system. AAAA An electric motor, reduction gears, and an automatic engaging and disengaging mechanism.
+Name three types of DC motors. AAAA Series, shunt and compound.
+What type of DC motor is commonly used for a reciprocating engine starter and why? AAAA A series wound motor is commonly used because it has a high starting torque under heavy load conditions.
+What are the operating modes of a turbine engine starter generator? AAAA It operates first as a starter, then as a generator once the engine is running.
+What is a possible indication when a starter drags? AAAA A dirty or worn starter commutator.
+Where would wire with high temperature insulation material be used? AAAA When they run close to high temperature areas such as exhaust stacks or heating ducts.
+What is the size standard for electrical wire used in US manufactured aircraft? AAAA The American Wire Gauge (AWG).
+How are wire sizes represented? AAAA By a numbered gauge size. The smaller wires are represented by larger numbers. The smallest size wire normally used in aircraft is 22-gauge.
+What is the maximum slack allowed between the supports of a single wire or bundle installation? AAAA Not over 1/2 inch deflection.
+Why are wires bonded on powerplant installations? AAAA To provide a current return path for electrical accessories, and to prevent static discharge.
+A reciprocating engine is found to have excessive oil consumption without evidence of any oil leaks. What is the likely cause? AAAA The piston rings are worn or broken.
+What are the functions of lubricating oil in reciprocating engines? AAAA To reduce friction between moving parts and remove heat.
+Name two important characteristics of aircraft engine oil. AAAA The oil must be light enough to circulate freely yet heavy enough to provide the proper oil film at engine operating temperatures.
+What could happen to an oil that is too low in viscosity at normal engine operating temperatures? AAAA It may become so thin that the oil film between moving parts is easily broken, resulting in premature wear.
+What are some of the factors that must be considered by an engine manufacturer in determining the proper grade of oil for a particular engine? AAAA The operating load and temperature as well as the rotational speed.
+Why do aircraft reciprocating engines use a relatively high viscosity oil? AAAA Because they usually have large operating clearances, and operate at high temperatures and pressures.
+Name some oil contaminants. AAAA Metal particles, dirt, carbon, moisture, and acids.
+What is a possible indication of low oil pressure together with high oil temperature? AAAA A low or inadequate oil supply.
+In ashless dispersant (AD) oils, what function does the dispersant perform?- AAAA The dispersant causes sludge-forming materials to repel each other and remain in suspension until they can be trapped by the oil filter or drained. This keeps the oil passages and ring grooves free of harmful deposits, and the inside of the engine clean.
+Why do oil reservoirs have expansion space? AAAA To provide for oil foaming, thermal expansion, and air in the return oil.
+What could cause oil foaming? AAAA Diluted oil, contaminated oil, and the oil level being too high.
+What controls oil pressure in a gear-type oil pressure pump? AAAA An oil pressure relief valve.
+What function does an oil cooler bypass valve perform? AAAA It directs the oil either through the cooler or around it in order to maintain proper operating oil temperatures.
+What could be a possible indication if the oil cooler passage becomes obstructed? AAAA A high oil temperature.
+Where is the oil temperature bulb usually located? AAAA At the engine oil inlet.
+What does the presence of metal particles in an engine oil filter indicate?- AAAA Depending on the type and size of the metal particles, this usually indicates abnormal wear and possible engine internal failure.
+What should be done if metal particles are found in an engine oil filter? AAAA Follow engine manufacturer's maintenance instruction.
+Where is the most critical point of lubrication in a gas turbine engine? AAAA At the turbine bearing.
+What type of oil is used in a turbine engine oil system? AAAA Synthetic oil.
+Where are oil screens or filters most likely located in a turbine oil system? AAAA At the oil pressure system (main filter), scavenge system, and at or just before the oil jet (last chance).
+Name two types of turbine engine oil coolers AAAA Air cooled and fuel cooled.
+What effect does excessive heat have on reciprocating engines? AAAA It shortens the life of the engine parts, changes the behavior of combustion, and impairs lubrication.
+What is the purpose of cooling fins? AAAA They provide a larger cooling surface area for removing heat from cylinder heads of air-cooled reciprocating engines. Airflow around the cooling fins transfers the heat from the cylinder heads to the air.
+What are the reasons for using engine cowlings, baffles and cowl air seals?- AAAA The cowling performs two main functions: it streamlines the engine area to reduce drag, and is used together with the baffles and cowl air seals to direct airflow over the cylinders for cooling.
+What is the purpose of cowl flaps and how are they operated? AAAA They are used to control the amount of airflow through the cowling. They are either mechanically, electrically or hydraulically operated.
+How does an augmenter cooling system work? AAAA An outer tube placed over the exiting exhaust gas creates a venturi effect that draws more airflow over the engine, thus providing additional cooling.
+Where should cowl flaps be positioned for ground operations? AAAA Fully open.
+What type of power is used to operate cowl flaps? AAAA Manual, hydraulic, or electrical.
+What should be done when cooling fin damage is discovered? AAAA Depending on the scope of damage, some cooling fins may be repaired subject to the manufacturer's overhaul and repair limitations. If an excessive amount of the cooling fin is broken off, the cylinder should be replaced.
+Why is cowl flap adjustment important? AAAA The movement must be within tolerances to keep cylinder head temperatures within allowable limits.
+How are turbine engines cooled? AAAA They are cooled by air passing through the engine. About 75% of the air passing through the engine is used for cooling which leaves only about 25% for combustion. This air is used to cool the combustion chamber and turbine.
+In a turbine engine, where does bleed air come from that is used to cool bearings and other parts? AAAA The engine compressor
+What is the relationship between turbine engine upper temperature limits and power produced? AAAA The higher the combustion temperatures that an engine can withstand without damage, the more power it is capable of producing.
+What is the approximate percentage of air passing though a turbine engine that is used for cooling rather than combustion? AAAA Approximately 75%.
+What can be done to effectively allow higher gas temperatures in the turbine section of some engines? AAAA Compressor bleed air ducted through hollow sections in the turbine inlet guide vanes and the first stage rotor blades can lower temperatures enough to prevent heat damage.
+What types of fire detector systems are used for engine fire detection? AAAA Overheat, rate of rise, and flame detectors.
+How does a thermal switch fire protection system operate? AAAA When heated past a predetermined temperature, the switch closes causing the warning devices in the cockpit to activate.
+How many thermal switches are needed in a thermal switch fire protection system? AAAA At least one.
+What kind of detection system allows more complete coverage than a spot-type system? AAAA A continuous loop system.
+What happens if an engine equipped with a thermocouple fire warning system overheats slowly? AAAA Nothing, because a fast temperature rise or rapid heating is required for this type of fire system to operate.
+What electrical power is required for a thermocouple fire protection system to operate? AAAA Both the thermocouple-produced power and the aircraft electrical system are required for this type of fire protection system to operate.
+What is the likely cause of a false fire warning? AAAA The engine fire sensing loop is bent or kinked excessively.
+What are fire extinguishing systems designed to do? AAAA They are designed to dilute the oxygen levels around the engine to a point that does not allow combustion, or to reduce temperature below the ignition point.
+Describe how a Kidde and Fenwal continuous loop fire protection system functions. AAAA A Kidde system has a sensing element consisting of a sealed Inconel tube containing two conductors that are embedded in a thermistor material. One wire is electrically grounded to the outer tube at each end and acts as an internal ground, and the other is a positive lead. When a fire or overheat occurs, the resistance of the thermistor material drops, allowing current to flow between the two wires to activate an alarm. A Fenwal system uses a sensing element consisting of a small diameter flexible Inconel tube containing a single wire electrode surrounded by ceramic beads. These ceramic beads prevent the electrode and tube from touching each other. Current is applied to the electrode while the outer tube is grounded to the aircraft structure. When a fire or overheat occurs, the core resistance of the ceramic beads drops, allowing current to flow between the center electrode and ground, energizing the alarm system.
+What elements must be present for a fire to occur? AAAA An ignition source such as heat or a spark, fuel and oxygen.
+What group of fire extinguishing agents are no longer manufactured because of environmental concerns? AAAA Halons (or Freon or chlorofluorocarbons[CFCs]) were no longer manufactured after 1995. However existing stocks of CFC may still be used and are subject to strict handling and disposal regulations.
+How are fire extinguishing agents distributed? AAAA Through perforated tubing and/or discharge nozzles.
+What is the purpose of the discharge cartridge and how is it activated? AAAA The discharge cartridge, or squib, which is electrically ignited, fires a projectile into the frangible disk, thereby releasing the fire extinguishing agent.
+How is a fire extinguisher system with a high rate of discharge classified? AAAA As an HRD fire extinguisher system.
+What do the red and yellow discs in a fire extinguishing system indicate? AAAA A yellow disc indicates a normal discharge. A red disc indicates a thermal discharge.
+How is the fire extinguishing agent in an HRD system distributed, and how ling does it take to discharge? AAAA The agent is distributed through a series of high pressure tubes and takes one to two seconds to discharge.
+What is the purpose of a pressure gauge in a fire extinguishing system? AAAA Indicates pressure within the container. To check if the pressure is within limits, a pressure-temperature chart is used.
+What is the function of a propeller? AAAA The propeller blades create thrust to pull or push an airplane through the air.
+What is the difference between a fixed pitch propeller and a controllable pitch propeller? AAAA A fixed pitch propeller is one that has a built-in blade angle that cannot be changed by the pilot. These propellers can have the blade angle changed by the manufacturer or an approved repair station to optimize performance. A controllable pitch propeller is one that can be changed by the pilot and is usually controlled by a governor that maintains a constant speed. Some controllable propellers also provide reverse pitch and feathering.
+How are some wooden propeller blades protected from wear and damage?- AAAA By metal tipping fastened to the leading edge and tip.
+What happens to the blade angle of a constant speed propeller during a constant power dive? AAAA The blade angle increases to prevent an overspeed.
+What are the functions of a constant speed propeller governor? AAAA It boosts engine oil pressure before it enters the propeller hub, it senses rotational speed of the propeller, and then adjust the oil flow to the propeller hub to change pitch and, therefore, speed of the propeller.
+What is the purpose of propeller counterweights? AAAA Centrifugal force acting on the counterweights causes the blade angle to increase.
+What is meant when a propeller governor is in an "on-speed" condition? AAAA The governor is not accelerating or decelerating and the speeder spring and flyweight forces are in balance.
+How is a constant speed feathering propeller feathered? AAAA Be releasing oil pressure in the governor, the counterweights and feathering spring move the propeller into feather. This happens automatically if the governor oil pressure drops to zero (following an engine failure in most turboprops), or can be manually controlled by the pilot by moving the propeller control into the feathering detent.
+What is an unfeathering accumulator? AAAA It is an oil accumulator used to provide oil pressure to unfeather a propeller.
+What is "alpha range" and "beta range" and where are they found? AAAA The alpha and beta ranges pertain to the operating modes of turboprop reversible-pitch propellers. In the alpha range, the propeller is operating in the standard, constant speed mode, which is usually in flight. In the beta range, the propeller is operating in the zero or minimum thrust range and negative thrust or reverse thrust mode, which is usually on the ground.
+What systems are commonly used for propeller ice control? AAAA Fluid (alcohol) and electrical heat applied to the propeller blade root.
+What propeller repairs can be performed by a certified mechanic with a powerplant rating? AAAA Only minor repairs and alterations can be performed by a certified mechanic with a powerplant rating. Major repairs must be performed by the manufacturer or a certified repair station. The propeller manufacturer's maintenance manual outlines the scope of repairs.
+How are wooden propellers generally cleaned? AAAA With a brush or cloth and warm water with mild soap.
+Where would you find the correct method and technique for cleaning an aluminum propeller and hub? AAAA The propeller manufacturer's maintenance instructions.
+What type of nondestructive testing should be accomplished to a propeller after blending? AAAA The procedures recommended by the manufacturer.
+What are the two criteria used by many manufacturers to determine the amount of bend damage that can be repaired by cold bending of aluminum propellers? AAAA The extent of the bend and its blade station location.
+How can repair file marks be removed from an aluminum propeller? AAAA With very fine sandpaper.
+When performing a static balance on a two bladed propeller, what positions must the propeller be placed in when measurements are taken? AAAA Vertical and horizontal positions.
+What is a propeller protractor used for? AAAA It is used to measure propeller blade angle.
+What blade conditions can cause engine vibration? AAAA Vibration can be caused by a propeller being out of track and/or balance, as well as incorrect blade angle setting.
+What is blade tracking? AAAA Blade tracking is a procedure that compares the position of the propeller blade tips relative to each other.
+What controls both manifold pressure and r.p.m. on an engine equipped with a fixed pitch propeller? AAAA The throttle.
+What publications can be used as a guide for 100-hour inspections on aircraft engines? AAAA Manufacturers maintenance manuals and FAR part 43, Appendix D.
+How do you identify the engine serial number? AAAA It is on the engine data plate.
+Prior to returning a reciprocating engine to service after a 100-hour inspection, what operational checks must be performed? AAAA Check the power output (static and idle rpm), check magnetos, fuel and oil pressure check, cylinder and oil temperature check.
+Where are life-limited parts of an engine listed? AAAA Engine maintenance manuals. Type Certificate Data Sheet, and the Airworthiness Limitations section of the instructions for continued airworthiness.
+Where can engine operating limits be found? AAAA Engine manual, engine specification, type certificate data sheet, and aircraft manufacturer's maintenance manual.
+Why are hot section inspections performed on turbine engines? AAAA To determine the integrity and wear of the hot section components.
+What inspections must be performed following a turbine engine overspeed? AAAA Refer to the engine manufacturer's maintenance manual for the required procedures
+What inspections must be performed on a turbine engine if the exhaust gas temperature exceeds limitations? AAAA A hot section inspection.
+What FAA approvals are required when installing an engine that is not on the aircraft type certificate? AAAA An STC (supplemental type certificate) or an FAA field approval.
+Under what conditions is compliance with an engine service bulletin mandatory? AAAA When an airworthiness directive references the service bulletin or when compliance is part of the approved operating specifications for a commercial or air carrier operator. When engine or component overhaul procedures require compliance at time of overhaul.
+What are the possible causes for a turbojet or turbofan engine having high exhaust gas temperatures, low rpm, and high fuel flow at all engine pressure ratios? AAAA Turbine damage or loss of turbine efficiency due to wear. 20 / 20

@@ -51,15 +51,24 @@ export function capitalize(str) {
 export function getRandomQuiz() {
   const RowDelimiter = 'AAAA';
   const LineDelimiter = 'BBBB';
+  let data1;
+  try {
+    data1 = fs.readFileSync('./src/data/quiz-bank-final.txt', 'utf8');
+  } catch (err) {
+    console.error("Error reading quiz bank file:", err);
+    return ["Error loading quiz. Please try again later."];
+  }
+    const dataBank1 = data1.split('\n');
+    let quiz1 = '*Topic: Final Exam*\n' + dataBank1[Math.floor(Math.random() * dataBank1.length)]
 
-  const data1 = fs.readFileSync('./data/quiz-bank-1.txt', 'utf8');  
-  const dataBank1 = data1.split('\n');
-  let quiz1 = '*Topic: Air Frame*\n' + dataBank1[Math.floor(Math.random() * dataBank1.length)]
+    // Temporarily only using one quiz bank, but can easily add more by uncommenting code below and adding more quiz bank txt files
+    // const data2 = fs.readFileSync('./data/quiz-bank-2.txt', 'utf8');  
+    // const dataBank2 = data2.split(LineDelimiter);
+    // let quiz2 = '*Topic: General*' + dataBank2[Math.floor(Math.random() * dataBank2.length)]
+    // const quiz = [quiz1, quiz2][Math.floor(Math.random() * 2)].split(RowDelimiter);
 
-  const data2 = fs.readFileSync('./data/quiz-bank-2.txt', 'utf8');  
-  const dataBank2 = data2.split(LineDelimiter);
-  let quiz2 = '*Topic: General*' + dataBank2[Math.floor(Math.random() * dataBank2.length)]
+    const quiz = quiz1.split(RowDelimiter);
+  
 
-  const quiz = [quiz1, quiz2][Math.floor(Math.random() * 2)].split(RowDelimiter);
   return quiz;
 }
